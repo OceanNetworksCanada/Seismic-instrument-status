@@ -19,18 +19,17 @@
 
 | Keywork | Description |
 | ----------- | ----------- |
-| begin | start date of current instrument deployment |
-| citation | ONC citation | 
-| depth | depth (m) of deployed instrument|
+| locationCode| instrument station code for ONC data base and IRIS |
 | deviceCategoryCode| **BBS**: Broadband Seismometer; **SPS**: Short Period Seismometer; **ACCELEROMETER**; **TILTMTR**: Tiltmeter| 
-| end | end date of current instrument deployment |
 | deviceCode| Indivdual name (code) of the Instrument in ONCs database | 
-| hasDeviceData| True: instrument has data in ONC database (IRIS); False: No data in ONC data base or IRIS|
-| heading| azimuth of instrument relative to Geographic North |
+| deviceId | link to device page in ONC database |
+| begin | start date of current instrument deployment |
+| end | end date of current instrument deployment |
 | lat | geographic latitude of deployed instrument | 
 | lon | geographic longitude of deployed instrument |
-| pitch/roll| |
-| locationCode| instrument station code for ONC data base and IRIS |
+| depth | depth (m) of deployed instrument|
+| heading| azimuth of instrument relative to Geographic North |
+| citation | ONC citation | 
 | annotation| ONC annotation for instrument|
 | annotation ID| |
 | annotationSource| DMAS: ONC database entry |
