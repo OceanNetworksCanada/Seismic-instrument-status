@@ -54,23 +54,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24074",
         "annotation":{
-            "annotationId":13747100,
+            "annotationId":16314500,
             "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-6779",
-            "createdBy":110440,
+            "annotationSummary":". (Start Command)",
+            "createdBy":22915,
             "depth":897.0,
-            "endDate":"2024-06-24T00:00:00.000Z",
+            "endDate":"2025-05-23T06:50:24.075Z",
             "flagged":false,
             "lat":48.31462653,
             "lon":-126.05810591,
-            "modifiedBy":110440,
-            "modifiedDate":"2024-06-24T17:11:57.066Z",
+            "modifiedBy":22915,
+            "modifiedDate":"2025-05-23T06:50:24.075Z",
             "published":true,
             "resourceId":24074,
             "resourceName":"Nanometrics TitanEA (S\/N 000646) (24074)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-06-13T17:11:14.329Z"
+            "startDate":"2025-05-23T06:50:24.075Z"
         }
     },
     "2":{
@@ -91,23 +91,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24154",
         "annotation":{
-            "annotationId":13621900,
+            "annotationId":16219400,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
-            "createdBy":22915,
+            "createdBy":114360,
             "depth":644.0,
-            "endDate":"2024-06-18T23:56:39.155Z",
+            "endDate":"2025-05-21T22:01:53.999Z",
             "flagged":false,
             "lat":48.34548182,
             "lon":-126.1574387,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-06-18T23:56:39.155Z",
+            "modifiedBy":114360,
+            "modifiedDate":"2025-05-21T22:01:53.999Z",
             "published":true,
             "resourceId":24154,
             "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63056 (24154)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-06-18T23:56:39.155Z"
+            "startDate":"2025-05-21T22:01:53.999Z"
         }
     },
     "3":{
@@ -128,23 +128,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24064",
         "annotation":{
-            "annotationId":10780590,
+            "annotationId":15451900,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
-            "createdBy":22915,
+            "createdBy":114360,
             "depth":-9.0,
-            "endDate":"2023-04-11T16:26:35.007Z",
+            "endDate":"2024-11-01T22:33:16.882Z",
             "flagged":false,
             "lat":48.83533,
             "lon":-125.13514,
-            "modifiedBy":22915,
-            "modifiedDate":"2023-04-11T16:26:35.007Z",
+            "modifiedBy":114360,
+            "modifiedDate":"2024-11-01T22:33:16.882Z",
             "published":true,
             "resourceId":24064,
             "resourceName":"Nanometrics Titan SMA (S\/N 000637) (24064)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2023-04-11T16:26:35.007Z"
+            "startDate":"2024-11-01T22:33:16.882Z"
         }
     },
     "4":{
@@ -239,23 +239,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24433",
         "annotation":{
-            "annotationId":12746100,
+            "annotationId":16442400,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
-            "createdBy":9690,
+            "createdBy":22915,
             "depth":2661.0,
-            "endDate":"2024-03-18T17:38:25.540Z",
+            "endDate":"2025-05-23T20:04:09.168Z",
             "flagged":false,
             "lat":47.756685,
             "lon":-127.731932,
-            "modifiedBy":9690,
-            "modifiedDate":"2024-03-18T17:38:25.540Z",
+            "modifiedBy":22915,
+            "modifiedDate":"2025-05-23T20:04:09.168Z",
             "published":true,
             "resourceId":24433,
             "resourceName":"Nanometrics TitanEA (S\/N 000788) (24433)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-03-18T17:38:25.540Z"
+            "startDate":"2025-05-23T20:04:09.168Z"
         }
     },
     "7":{
@@ -276,23 +276,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24155",
         "annotation":{
-            "annotationId":13549800,
+            "annotationId":16442500,
             "annotationSource":"DMAS",
-            "annotationSummary":"Should be ready now (Start Command)",
-            "createdBy":19424,
+            "annotationSummary":". (Start Command)",
+            "createdBy":22915,
             "depth":2656.0,
-            "endDate":"2024-06-15T17:10:19.554Z",
+            "endDate":"2025-05-23T20:04:09.193Z",
             "flagged":false,
             "lat":47.756717,
             "lon":-127.731602,
-            "modifiedBy":19424,
-            "modifiedDate":"2024-06-15T17:10:19.554Z",
+            "modifiedBy":22915,
+            "modifiedDate":"2025-05-23T20:04:09.193Z",
             "published":true,
             "resourceId":24155,
             "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63057 (24155)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-06-15T17:10:19.554Z"
+            "startDate":"2025-05-23T20:04:09.193Z"
         }
     },
     "8":{
@@ -332,7 +332,7 @@
         "deviceCategoryCode":"TILTMTR",
         "deviceCode":"RBRQUARTZ3APT207599",
         "begin":"2021-08-09T04:13:13.000Z",
-        "end":"2024-10-10T22:27:47.000Z",
+        "end":null,
         "lat":48.570747,
         "lon":-127.137591,
         "depth":2559.0,
@@ -398,23 +398,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24063",
         "annotation":{
-            "annotationId":9928470,
+            "annotationId":15625900,
             "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
+            "annotationSummary":", (Start Command)",
             "createdBy":22915,
             "depth":-328.0,
-            "endDate":"2022-03-11T21:14:45.436Z",
+            "endDate":"2024-12-23T20:30:50.077Z",
             "flagged":false,
             "lat":49.59497,
             "lon":-125.01135,
             "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T21:14:45.436Z",
+            "modifiedDate":"2024-12-23T20:30:50.077Z",
             "published":true,
             "resourceId":24063,
             "resourceName":"Nanometrics Titan SMA (S\/N 000636) (24063)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2022-03-11T21:14:45.436Z"
+            "startDate":"2024-12-23T20:30:50.077Z"
         }
     },
     "13":{
@@ -435,23 +435,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24432",
         "annotation":{
-            "annotationId":15391300,
+            "annotationId":16217200,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
-            "createdBy":22915,
+            "createdBy":9690,
             "depth":1318.0,
-            "endDate":"2024-10-15T23:53:22.917Z",
+            "endDate":"2025-05-21T21:57:15.439Z",
             "flagged":false,
             "lat":48.69971814,
             "lon":-126.87261781,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-10-15T23:53:22.917Z",
+            "modifiedBy":9690,
+            "modifiedDate":"2025-05-21T21:57:15.439Z",
             "published":true,
             "resourceId":24432,
             "resourceName":"Nanometrics TitanEA (S\/N 000787) (24432)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-10-15T23:53:22.917Z"
+            "startDate":"2025-05-21T21:57:15.439Z"
         }
     },
     "14":{
@@ -543,14 +543,14 @@
         "annotation":{
             "annotationId":11314950,
             "annotationSource":"DMAS",
-            "annotationSummary":"Data Quality | Z-mass motor is stuck and therefor data from that channel are compromised (INSTR-2278) | high",
+            "annotationSummary":"Instrument was powered down Feb-05-2025 due to issues with connection | Data Quality | Z-mass motor is stuck and therefor data from that channel are compromised (INSTR-2278; 2711) | high",
             "createdBy":48400,
             "depth":2361.0,
             "flagged":false,
             "lat":47.959766,
             "lon":-129.124479,
             "modifiedBy":48400,
-            "modifiedDate":"2024-05-21T21:48:07.894Z",
+            "modifiedDate":"2025-04-17T15:30:00.470Z",
             "published":true,
             "resourceId":11057,
             "resourceName":"Guralp CMG-IT Broadband Seismometer 2533 (11057)",
@@ -949,38 +949,38 @@
     "28":{
         "locationCode":"NANA",
         "deviceCategoryCode":"ACCELEROMETER",
-        "deviceCode":"NANOMETRICSTITANSMA001575",
-        "begin":"2023-04-17T21:35:00.000Z",
+        "deviceCode":"NANOMETRICSTITANSMA000819",
+        "begin":"2024-12-18T20:27:00.000Z",
         "end":null,
         "lat":49.237216,
         "lon":-124.063018,
         "depth":-105.0,
         "heading":0.0,
         "citation":{
-            "citation":"Ocean Networks Canada Society. 2023. Nanaimo Accelerometer Deployed 2023-04-17. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/fb5a56c2-97b6-4f84-abec-b73797887a2d.",
-            "doi":"10.34943\/fb5a56c2-97b6-4f84-abec-b73797887a2d",
-            "landingPageUrl":"https:\/\/doi.org\/10.34943\/fb5a56c2-97b6-4f84-abec-b73797887a2d",
+            "citation":"Ocean Networks Canada Society. 2024. Nanaimo Accelerometer Deployed 2024-12-18. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d.",
+            "doi":"10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=67040",
+        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24309",
         "annotation":{
-            "annotationId":10813480,
+            "annotationId":15620200,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
             "createdBy":22915,
             "depth":-105.0,
-            "endDate":"2023-04-18T16:33:52.401Z",
             "flagged":false,
             "lat":49.23721622,
             "lon":-124.06301839,
             "modifiedBy":22915,
-            "modifiedDate":"2023-04-18T16:33:52.401Z",
+            "modifiedDate":"2024-12-19T00:05:17.842Z",
             "published":true,
-            "resourceId":67040,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001575) (67040)",
+            "resourceId":24309,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000819) (24309)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2023-04-18T16:33:52.401Z"
+            "startDate":"2024-12-19T00:05:17.842Z",
+            "endDate":"2024-12-19T00:05:17.842Z"
         }
     },
     "29":{
@@ -1070,23 +1070,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24075",
         "annotation":{
-            "annotationId":15242200,
+            "annotationId":16215300,
             "annotationSource":"DMAS",
-            "annotationSummary":"OPE-1019 (Start Command)",
-            "createdBy":47560,
+            "annotationSummary":". (Start Command)",
+            "createdBy":9690,
             "depth":1259.0,
-            "endDate":"2024-08-16T18:31:41.673Z",
+            "endDate":"2025-05-21T21:53:35.972Z",
             "flagged":false,
             "lat":48.67047314,
             "lon":-126.84770139,
-            "modifiedBy":47560,
-            "modifiedDate":"2024-08-16T18:31:41.673Z",
+            "modifiedBy":9690,
+            "modifiedDate":"2025-05-21T21:53:35.972Z",
             "published":true,
             "resourceId":24075,
             "resourceName":"Nanometrics TitanEA (S\/N 000647) (24075)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-08-16T18:31:41.673Z"
+            "startDate":"2025-05-21T21:53:35.972Z"
         }
     },
     "32":{
@@ -1107,23 +1107,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24150",
         "annotation":{
-            "annotationId":15242400,
+            "annotationId":16215500,
             "annotationSource":"DMAS",
-            "annotationSummary":"OPE-1019 (Start Command)",
-            "createdBy":47560,
+            "annotationSummary":". (Start Command)",
+            "createdBy":9690,
             "depth":1259.0,
-            "endDate":"2024-08-16T18:31:41.779Z",
+            "endDate":"2025-05-21T21:53:36.028Z",
             "flagged":false,
             "lat":48.67086956,
             "lon":-126.84814131,
-            "modifiedBy":47560,
-            "modifiedDate":"2024-08-16T18:31:41.779Z",
+            "modifiedBy":9690,
+            "modifiedDate":"2025-05-21T21:53:36.028Z",
             "published":true,
             "resourceId":24150,
             "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63055 (24150)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-08-16T18:31:41.779Z"
+            "startDate":"2025-05-21T21:53:36.028Z"
         }
     },
     "33":{
@@ -1165,23 +1165,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=23454",
         "annotation":{
-            "annotationId":13337500,
+            "annotationId":16213800,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
-            "createdBy":22915,
+            "createdBy":114360,
             "depth":394.0,
-            "endDate":"2024-06-03T17:20:18.262Z",
+            "endDate":"2025-05-21T21:51:20.958Z",
             "flagged":false,
             "lat":48.42657478,
             "lon":-126.17465246,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-06-03T17:20:18.262Z",
+            "modifiedBy":114360,
+            "modifiedDate":"2025-05-21T21:51:20.958Z",
             "published":true,
             "resourceId":23454,
             "resourceName":"Nanometrics TitanEA (S\/N 000145) (23454)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-06-03T17:20:18.262Z"
+            "startDate":"2025-05-21T21:51:20.958Z"
         }
     },
     "35":{
@@ -1260,23 +1260,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68440",
         "annotation":{
-            "annotationId":10516260,
+            "annotationId":15415400,
             "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
+            "annotationSummary":"Set Log Level Command to INFO",
             "createdBy":22915,
             "depth":-15.0,
-            "endDate":"2022-11-01T23:12:51.733Z",
+            "endDate":"2024-10-21T19:18:09.569Z",
             "flagged":false,
             "lat":48.86068644,
             "lon":-124.65578477,
             "modifiedBy":22915,
-            "modifiedDate":"2022-11-01T23:12:51.733Z",
+            "modifiedDate":"2024-10-21T19:18:09.569Z",
             "published":true,
             "resourceId":68440,
             "resourceName":"Nanometrics Titan SMA (S\/N 001682) (68440)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2022-11-01T23:12:51.733Z"
+            "startDate":"2024-10-21T19:18:09.569Z"
         }
     },
     "38":{
@@ -1488,23 +1488,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24059",
         "annotation":{
-            "annotationId":9928810,
+            "annotationId":15625800,
             "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
+            "annotationSummary":"Set JVM Id to 73",
+            "createdBy":9690,
             "depth":-149.0,
-            "endDate":"2022-03-11T22:06:04.568Z",
+            "endDate":"2024-12-23T19:41:42.510Z",
             "flagged":false,
             "lat":50.70615,
             "lon":-127.514717,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T22:06:04.568Z",
+            "modifiedBy":9690,
+            "modifiedDate":"2024-12-23T19:41:42.510Z",
             "published":true,
             "resourceId":24059,
             "resourceName":"Nanometrics Titan SMA (S\/N 000617) (24059)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2022-03-11T22:06:04.568Z"
+            "startDate":"2024-12-23T19:41:42.510Z"
         }
     },
     "47":{
@@ -1525,23 +1525,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=23650",
         "annotation":{
-            "annotationId":11939500,
+            "annotationId":15688900,
             "annotationSource":"DMAS",
-            "annotationSummary":"OPE-965 (Start Command)",
-            "createdBy":114360,
+            "annotationSummary":"trident extra port change (Start Command)",
+            "createdBy":22915,
             "depth":-20.0,
-            "endDate":"2024-02-15T22:10:56.432Z",
+            "endDate":"2025-02-24T22:22:51.892Z",
             "flagged":false,
             "lat":49.218886,
             "lon":-124.811812,
-            "modifiedBy":114360,
-            "modifiedDate":"2024-02-15T22:10:56.432Z",
+            "modifiedBy":22915,
+            "modifiedDate":"2025-02-24T22:22:51.892Z",
             "published":true,
             "resourceId":23650,
             "resourceName":"Nanometrics TitanEA (S\/N 000131) (23650)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-02-15T22:10:56.432Z"
+            "startDate":"2025-02-24T22:22:51.892Z"
         }
     },
     "48":{
@@ -1582,6 +1582,43 @@
         }
     },
     "49":{
+        "locationCode":"PREN",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001683",
+        "begin":"2022-11-24T22:53:00.000Z",
+        "end":null,
+        "lat":48.556529,
+        "lon":-124.399594,
+        "depth":-16.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2024. Port Renfrew Accelerometer Deployed 2022-11-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8.",
+            "doi":"10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8",
+            "queryPid":null
+        },
+        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68460",
+        "annotation":{
+            "annotationId":15688300,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Commissioning | DATA-7081 (Port Renfrew)",
+            "createdBy":48400,
+            "depth":-16.0,
+            "endDate":"2025-01-27T00:00:00.000Z",
+            "flagged":false,
+            "lat":48.5565291,
+            "lon":-124.39959355,
+            "modifiedBy":48400,
+            "modifiedDate":"2025-02-24T21:46:53.621Z",
+            "published":true,
+            "resourceId":68460,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001683) (68460)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2024-12-04T21:45:45.846Z"
+        }
+    },
+    "50":{
         "locationCode":"PTAL",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000845",
@@ -1618,7 +1655,7 @@
             "startDate":"2022-03-11T18:15:11.606Z"
         }
     },
-    "50":{
+    "51":{
         "locationCode":"PTRF",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITAN000969",
@@ -1655,7 +1692,7 @@
             "startDate":"2022-03-12T01:14:20.700Z"
         }
     },
-    "51":{
+    "52":{
         "locationCode":"QISL",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001573",
@@ -1692,7 +1729,7 @@
             "startDate":"2024-07-12T20:22:58.736Z"
         }
     },
-    "52":{
+    "53":{
         "locationCode":"QUAD",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000836",
@@ -1729,7 +1766,7 @@
             "startDate":"2022-10-03T18:11:21.839Z"
         }
     },
-    "53":{
+    "54":{
         "locationCode":"SAYW",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001569",
@@ -1766,7 +1803,7 @@
             "startDate":"2024-01-26T02:45:26.771Z"
         }
     },
-    "54":{
+    "55":{
         "locationCode":"SC04",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000635",
@@ -1803,7 +1840,7 @@
             "startDate":"2022-08-30T20:43:26.207Z"
         }
     },
-    "55":{
+    "56":{
         "locationCode":"SHPB",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITAN001117",
@@ -1821,26 +1858,26 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=33039",
         "annotation":{
-            "annotationId":9928150,
+            "annotationId":15668400,
             "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
+            "annotationSummary":"n (Start Command)",
             "createdBy":22915,
             "depth":-26.0,
-            "endDate":"2022-03-11T18:50:49.658Z",
+            "endDate":"2025-02-06T07:19:09.388Z",
             "flagged":false,
             "lat":49.3476,
             "lon":-126.25979,
             "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T18:50:49.658Z",
+            "modifiedDate":"2025-02-06T07:19:09.388Z",
             "published":true,
             "resourceId":33039,
             "resourceName":"Nanometrics Titan (S\/N 001117) (33039)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2022-03-11T18:50:49.658Z"
+            "startDate":"2025-02-06T07:19:09.388Z"
         }
     },
-    "56":{
+    "57":{
         "locationCode":"SNCH",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001704",
@@ -1877,7 +1914,7 @@
             "startDate":"2022-09-28T16:59:43.337Z"
         }
     },
-    "57":{
+    "58":{
         "locationCode":"STRA",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000840",
@@ -1914,7 +1951,7 @@
             "startDate":"2022-03-11T19:31:01.782Z"
         }
     },
-    "58":{
+    "59":{
         "locationCode":"SYMB",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITAN000895",
@@ -1951,7 +1988,7 @@
             "startDate":"2022-03-11T22:16:42.667Z"
         }
     },
-    "59":{
+    "60":{
         "locationCode":"TAHB",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITAN001097",
@@ -1988,7 +2025,7 @@
             "startDate":"2022-03-11T22:25:37.772Z"
         }
     },
-    "60":{
+    "61":{
         "locationCode":"TAYR",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001672",
@@ -2025,7 +2062,7 @@
             "startDate":"2022-03-12T00:08:24.033Z"
         }
     },
-    "61":{
+    "62":{
         "locationCode":"TELC",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001544",
@@ -2062,7 +2099,7 @@
             "startDate":"2022-05-04T19:20:56.737Z"
         }
     },
-    "62":{
+    "63":{
         "locationCode":"TFNO",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000642",
@@ -2099,7 +2136,7 @@
             "startDate":"2023-02-21T20:58:33.613Z"
         }
     },
-    "63":{
+    "64":{
         "locationCode":"UCLU",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000643",
@@ -2136,7 +2173,7 @@
             "startDate":"2022-03-11T22:35:53.610Z"
         }
     },
-    "64":{
+    "65":{
         "locationCode":"VICP",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000839",
@@ -2171,43 +2208,6 @@
             "resourceTypeId":2,
             "resourceTypeName":"Device",
             "startDate":"2023-04-28T16:38:58.377Z"
-        }
-    },
-    "65":{
-        "locationCode":"VIK.W1",
-        "deviceCategoryCode":"ACCELEROMETER",
-        "deviceCode":"TETRA2V2ACCELERO70",
-        "begin":"2014-12-15T17:57:05.000Z",
-        "end":null,
-        "lat":50.03285,
-        "lon":-127.374467,
-        "depth":-39.0,
-        "heading":343.0,
-        "citation":{
-            "citation":"Ocean Networks Canada Society. 2014. Kyuquot Accelerometer Deployed 2014-12-15. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/09c23430-2a3a-4642-9b9d-bffdf37b5352.",
-            "doi":"10.34943\/09c23430-2a3a-4642-9b9d-bffdf37b5352",
-            "landingPageUrl":"https:\/\/doi.org\/10.34943\/09c23430-2a3a-4642-9b9d-bffdf37b5352",
-            "queryPid":null
-        },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=23352",
-        "annotation":{
-            "annotationId":251167,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Stop Command)",
-            "createdBy":22915,
-            "depth":-39.0,
-            "endDate":"2016-02-10T20:16:14.000Z",
-            "flagged":false,
-            "lat":50.03285,
-            "lon":-127.374467,
-            "modifiedBy":22915,
-            "modifiedDate":"2016-02-10T20:16:14.000Z",
-            "published":true,
-            "resourceId":23352,
-            "resourceName":"Tetra2 v2.0 Accelerometer (S\/N 70) (23352)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2016-02-10T20:16:14.000Z"
         }
     },
     "66":{
@@ -2309,7 +2309,7 @@
         "locationCode":"YWPT",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001701",
-        "begin":"2024-05-02T21:08:49.000Z",
+        "begin":"2024-05-02T00:00:00.000Z",
         "end":null,
         "lat":49.046248,
         "lon":-123.756308,
@@ -2323,23 +2323,23 @@
         },
         "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68480",
         "annotation":{
-            "annotationId":13193700,
+            "annotationId":15619200,
             "annotationSource":"DMAS",
             "annotationSummary":". (Start Command)",
             "createdBy":22915,
             "depth":-3.0,
-            "endDate":"2024-05-03T16:32:07.264Z",
+            "endDate":"2024-12-18T19:52:39.272Z",
             "flagged":false,
             "lat":49.046248,
             "lon":-123.756308,
             "modifiedBy":22915,
-            "modifiedDate":"2024-05-03T16:32:07.264Z",
+            "modifiedDate":"2024-12-18T19:52:39.272Z",
             "published":true,
             "resourceId":68480,
             "resourceName":"Nanometrics Titan SMA (S\/N 001701) (68480)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2024-05-03T16:32:07.264Z"
+            "startDate":"2024-12-18T19:52:39.272Z"
         }
     },
     "70":{
