@@ -15,36 +15,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/942c24f1-20d5-4165-ad1d-16aa8c3741d9",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24061",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9925620,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-29.0,
-            "endDate":"2022-03-10T20:10:40.555Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.38981,
-            "lon":-123.48739,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-10T20:10:40.555Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9925620
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-29.0
+            },
+            "endDate":{
+                "0":"2022-03-10T20:10:40.555Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.38981
+            },
+            "lon":{
+                "0":-123.48739
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-10T20:10:40.555Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24061,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000619) (24061)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-10T20:10:40.555Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24061
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000619) (24061)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-10T20:10:40.555Z"
+            }
         }
     },
     "1":{
@@ -63,36 +107,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/e234bf4e-93f1-41ea-8930-97dd1e65badd",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24074",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16314500,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":897.0,
-            "endDate":"2025-05-23T06:50:24.075Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.31462653,
-            "lon":-126.05810591,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-05-23T06:50:24.075Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19656200
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":897.0
+            },
+            "endDate":{
+                "0":"2026-04-18T00:46:10.873Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.31462653
+            },
+            "lon":{
+                "0":-126.05810591
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-04-18T00:46:10.873Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24074,
-            "resourceName":"Nanometrics TitanEA (S\/N 000646) (24074)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-05-23T06:50:24.075Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24074
+            },
+            "resourceName":{
+                "0":"Nanometrics TitanEA (S\/N 000646) (24074)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-18T00:46:10.873Z"
+            }
         }
     },
     "2":{
@@ -111,36 +199,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/867df636-4c65-478b-8103-97afdbada39e",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24154",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16524900,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":644.0,
-            "endDate":"2025-05-27T06:24:21.818Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.34548182,
-            "lon":-126.1574387,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-05-27T06:24:21.818Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19774000
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":644.0
+            },
+            "endDate":{
+                "0":"2026-06-02T16:47:34.156Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.34548182
+            },
+            "lon":{
+                "0":-126.1574387
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-06-02T16:47:34.156Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24154,
-            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63056 (24154)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-05-27T06:24:21.818Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24154
+            },
+            "resourceName":{
+                "0":"RBRconcerto Tilt Meter ACC.BPR 63056 (24154)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-06-02T16:47:34.156Z"
+            }
         }
     },
     "3":{
@@ -159,36 +291,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/8a6cee22-459e-483b-8b70-a9346a6be576",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24064",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15451900,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":114360,
-            "depth":-9.0,
-            "endDate":"2024-11-01T22:33:16.882Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.83533,
-            "lon":-125.13514,
-            "modifiedBy":114360,
-            "modifiedDate":"2024-11-01T22:33:16.882Z",
-            "modifyByName":"Patrick Frisby",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":15451900
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":114360
+            },
+            "depth":{
+                "0":-9.0
+            },
+            "endDate":{
+                "0":"2024-11-01T22:33:16.882Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.83533
+            },
+            "lon":{
+                "0":-125.13514
+            },
+            "modifiedBy":{
+                "0":114360
+            },
+            "modifiedDate":{
+                "0":"2024-11-01T22:33:16.882Z"
+            },
+            "modifyByName":{
+                "0":"Patrick Frisby"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Patrick Frisby",
-            "published":true,
-            "resourceId":24064,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000637) (24064)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-11-01T22:33:16.882Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Patrick Frisby"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24064
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000637) (24064)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2024-11-01T22:33:16.882Z"
+            }
         }
     },
     "4":{
@@ -202,36 +378,9 @@
         "depth":2662.0,
         "heading":357.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=74380",
+        "deviceId":null,
         "annotation":{
-            "annotationId":17558300,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Set JVM Id to 0",
-            "createdBy":88490,
-            "depth":2662.0,
-            "endDate":"2025-08-31T18:16:04.267Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "Set JVM Id to 0"
-            ],
-            "lat":47.756135,
-            "lon":-127.731713,
-            "modifiedBy":88490,
-            "modifiedDate":"2025-08-31T18:16:04.267Z",
-            "modifyByName":"Richard Burdick",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Richard Burdick",
-            "published":true,
-            "resourceId":74380,
-            "resourceName":"Maris Seismometer TR1371 (74380)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-08-31T18:16:04.267Z"
         }
     },
     "5":{
@@ -250,36 +399,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/6017cbf2-b845-4fc2-9db6-935971756717",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24433",
+        "deviceId":null,
         "annotation":{
-            "annotationId":17557900,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":88490,
-            "depth":2661.0,
-            "endDate":"2025-08-31T17:47:54.569Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":47.756685,
-            "lon":-127.731932,
-            "modifiedBy":88490,
-            "modifiedDate":"2025-08-31T17:47:54.569Z",
-            "modifyByName":"Richard Burdick",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19658400
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":2661.0
+            },
+            "endDate":{
+                "0":"2026-04-18T00:53:20.449Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":47.756685
+            },
+            "lon":{
+                "0":-127.731932
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-04-18T00:53:20.449Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Richard Burdick",
-            "published":true,
-            "resourceId":24433,
-            "resourceName":"Nanometrics TitanEA (S\/N 000788) (24433)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-08-31T17:47:54.569Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24433
+            },
+            "resourceName":{
+                "0":"Nanometrics TitanEA (S\/N 000788) (24433)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-18T00:53:20.449Z"
+            }
         }
     },
     "6":{
@@ -298,36 +491,84 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/dc32dec0-fdb6-4c76-9fa4-03d65f63f54b",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24155",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16442500,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":2656.0,
-            "endDate":"2025-05-23T20:04:09.193Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":47.756717,
-            "lon":-127.731602,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-05-23T20:04:09.193Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19676900
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"No data due to communication issues | Data Gap | medium"
+            },
+            "createdBy":{
+                "0":48400
+            },
+            "depth":{
+                "0":2656.0
+            },
+            "endDate":{
+                "0":"2026-04-22T20:06:00.000Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4,
+                    5,
+                    126
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "No data due to communication issues",
+                    "Data Gap",
+                    "medium"
+                ]
+            },
+            "lat":{
+                "0":47.756717
+            },
+            "lon":{
+                "0":-127.731602
+            },
+            "modifiedBy":{
+                "0":48400
+            },
+            "modifiedDate":{
+                "0":"2026-04-22T20:45:08.981Z"
+            },
+            "modifyByName":{
+                "0":"Angela Schlesinger"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24155,
-            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63057 (24155)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-05-23T20:04:09.193Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Angela Schlesinger"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24155
+            },
+            "resourceName":{
+                "0":"RBRconcerto Tilt Meter ACC.BPR 63057 (24155)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-14T15:30:00.806Z"
+            }
         }
     },
     "7":{
@@ -341,7 +582,7 @@
         "depth":1748.0,
         "heading":0.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=65940",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -357,7 +598,7 @@
         "depth":2504.0,
         "heading":108.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=67540",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -373,7 +614,7 @@
         "depth":2559.0,
         "heading":0.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=67560",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -394,36 +635,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/3521dadb-ff5f-432a-8a58-23869e87db0d",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24411",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9926070,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-174.0,
-            "endDate":"2022-03-10T21:41:00.442Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.82032,
-            "lon":-124.1309,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-10T21:41:00.442Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9926070
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-174.0
+            },
+            "endDate":{
+                "0":"2022-03-10T21:41:00.442Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.82032
+            },
+            "lon":{
+                "0":-124.1309
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-10T21:41:00.442Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24411,
-            "resourceName":"Nanometrics Titan (S\/N 000943) (24411)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-10T21:41:00.442Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24411
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 000943) (24411)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-10T21:41:00.442Z"
+            }
         }
     },
     "11":{
@@ -442,36 +727,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/709be161-9c4f-42a3-85ab-1540d637f9a8",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24063",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15625900,
-            "annotationSource":"DMAS",
-            "annotationSummary":", (Start Command)",
-            "createdBy":22915,
-            "depth":-328.0,
-            "endDate":"2024-12-23T20:30:50.077Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ", (Start Command)"
-            ],
-            "lat":49.59497,
-            "lon":-125.01135,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-12-23T20:30:50.077Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":15625900
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":", (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-328.0
+            },
+            "endDate":{
+                "0":"2024-12-23T20:30:50.077Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ", (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.59497
+            },
+            "lon":{
+                "0":-125.01135
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2024-12-23T20:30:50.077Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24063,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000636) (24063)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-12-23T20:30:50.077Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24063
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000636) (24063)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2024-12-23T20:30:50.077Z"
+            }
         }
     },
     "12":{
@@ -490,36 +819,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/075d6e77-49ca-4960-bae9-642c8d284f57",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24432",
+        "deviceId":null,
         "annotation":{
-            "annotationId":17302700,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":9690,
-            "depth":1318.0,
-            "endDate":"2025-08-23T22:32:39.286Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.69971814,
-            "lon":-126.87261781,
-            "modifiedBy":9690,
-            "modifiedDate":"2025-08-23T22:32:39.286Z",
-            "modifyByName":"Duncan Hogg",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19707300
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":47560
+            },
+            "depth":{
+                "0":1318.0
+            },
+            "endDate":{
+                "0":"2026-05-13T18:14:00.339Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.69971814
+            },
+            "lon":{
+                "0":-126.87261781
+            },
+            "modifiedBy":{
+                "0":47560
+            },
+            "modifiedDate":{
+                "0":"2026-05-13T18:14:00.339Z"
+            },
+            "modifyByName":{
+                "0":"Erkan Ersan"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Duncan Hogg",
-            "published":true,
-            "resourceId":24432,
-            "resourceName":"Nanometrics TitanEA (S\/N 000787) (24432)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-08-23T22:32:39.286Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Erkan Ersan"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24432
+            },
+            "resourceName":{
+                "0":"Nanometrics TitanEA (S\/N 000787) (24432)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-05-13T18:14:00.339Z"
+            }
         }
     },
     "13":{
@@ -533,38 +906,82 @@
         "depth":2321.0,
         "heading":344.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=39380",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10420260,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-5705",
-            "createdBy":110440,
-            "depth":-20.0,
-            "endDate":"2022-09-16T00:00:00.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                6
-            ],
-            "formFieldValues":[
-                "Commissioning",
-                "DATA-5705"
-            ],
-            "lat":48.6494983333,
-            "lon":-123.4454733333,
-            "modifiedBy":110440,
-            "modifiedDate":"2022-09-16T18:08:10.416Z",
-            "modifyByName":"Alireza Babaeimahani",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":10420260
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"Commissioning | DATA-5705"
+            },
+            "createdBy":{
+                "0":110440
+            },
+            "depth":{
+                "0":-20.0
+            },
+            "endDate":{
+                "0":"2022-09-16T00:00:00.000Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    5,
+                    6
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "Commissioning",
+                    "DATA-5705"
+                ]
+            },
+            "lat":{
+                "0":48.6494983333
+            },
+            "lon":{
+                "0":-123.4454733333
+            },
+            "modifiedBy":{
+                "0":110440
+            },
+            "modifiedDate":{
+                "0":"2022-09-16T18:08:10.416Z"
+            },
+            "modifyByName":{
+                "0":"Alireza Babaeimahani"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Alireza Babaeimahani",
-            "published":true,
-            "resourceId":39380,
-            "resourceName":"Maris Seismometer TR1302 (0516) (39380)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-07-31T18:00:42.845Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Alireza Babaeimahani"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":39380
+            },
+            "resourceName":{
+                "0":"Maris Seismometer TR1302 (0516) (39380)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-07-31T18:00:42.845Z"
+            }
         }
     },
     "14":{
@@ -583,42 +1000,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/953f57b5-1313-447f-b374-aed116c1d4bf",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=11057",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11314950,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Instrument was powered down Feb-05-2025 due to issues with connection | Data Quality | Z-mass motor is stuck and therefor data from that channel are compromised (INSTR-2278; 2711) | high",
-            "createdBy":48400,
-            "depth":2361.0,
-            "flagged":false,
-            "formFieldIds":[
-                4,
-                5,
-                123,
-                126
-            ],
-            "formFieldValues":[
-                "Instrument was powered down Feb-05-2025 due to issues with connection",
-                "Data Quality",
-                "Z-mass motor is stuck and therefor data from that channel are compromised (INSTR-2278; 2711)",
-                "high"
-            ],
-            "lat":47.959766,
-            "lon":-129.124479,
-            "modifiedBy":48400,
-            "modifiedDate":"2025-04-17T15:30:00.470Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "1":7956650
+            },
+            "annotationSource":{
+                "1":"DMAS"
+            },
+            "annotationSummary":{
+                "1":"Set JVM Id to 0"
+            },
+            "createdBy":{
+                "1":47560
+            },
+            "depth":{
+                "1":2361.0
+            },
+            "flagged":{
+                "1":false
+            },
+            "formFieldIds":{
+                "1":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "1":[
+                    "Set JVM Id to 0"
+                ]
+            },
+            "lat":{
+                "1":47.959766
+            },
+            "lon":{
+                "1":-129.124479
+            },
+            "modifiedBy":{
+                "1":47560
+            },
+            "modifiedDate":{
+                "1":"2021-09-13T23:44:35.550Z"
+            },
+            "modifyByName":{
+                "1":"Erkan Ersan"
+            },
+            "orderedFormFieldValues":{
+                "1":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":11057,
-            "resourceName":"Guralp CMG-IT Broadband Seismometer 2533 (11057)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-07-11T00:00:00.000Z",
-            "endDate":null
+                ]
+            },
+            "ownerName":{
+                "1":"Erkan Ersan"
+            },
+            "published":{
+                "1":true
+            },
+            "resourceId":{
+                "1":11057
+            },
+            "resourceName":{
+                "1":"Guralp CMG-IT Broadband Seismometer 2533 (11057)"
+            },
+            "resourceTypeId":{
+                "1":2
+            },
+            "resourceTypeName":{
+                "1":"Device"
+            },
+            "startDate":{
+                "1":"2021-09-13T23:44:35.550Z"
+            },
+            "endDate":{
+                "1":"2021-09-13T23:44:35.550Z"
+            }
         }
     },
     "15":{
@@ -637,36 +1092,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/aa70d93d-629e-47c9-bb7a-a8a4339e3641",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24310",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11838110,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-5.0,
-            "endDate":"2024-01-24T23:59:19.124Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.19781,
-            "lon":-123.11988,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-01-24T23:59:19.124Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":11838110
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-5.0
+            },
+            "endDate":{
+                "0":"2024-01-24T23:59:19.124Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.19781
+            },
+            "lon":{
+                "0":-123.11988
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2024-01-24T23:59:19.124Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24310,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000834) (24310)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-01-24T23:59:19.124Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24310
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000834) (24310)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2024-01-24T23:59:19.124Z"
+            }
         }
     },
     "16":{
@@ -685,36 +1184,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/f6c90714-c16b-42d2-8e4a-51c457d58826",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66940",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10418940,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-120.0,
-            "endDate":"2022-09-15T23:17:36.565Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.778594,
-            "lon":-126.047062,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-09-15T23:17:36.565Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66940,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001571) (66940)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-09-15T23:17:36.565Z"
         }
     },
     "17":{
@@ -733,36 +1205,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/6440dfe5-d78b-4408-b1b7-a857444afaf3",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68500",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10666090,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-5.0,
-            "endDate":"2023-01-17T23:47:35.851Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.420143,
-            "lon":-124.045709,
-            "modifiedBy":22915,
-            "modifiedDate":"2023-01-17T23:47:35.851Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":68500,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001702) (68500)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-01-17T23:47:35.851Z"
         }
     },
     "18":{
@@ -781,36 +1226,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/2ed6df77-3558-4adc-8ddd-0a84210acde8",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=11157",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11934600,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Set JVM Id to 1",
-            "createdBy":114360,
-            "depth":2195.0,
-            "endDate":"2024-02-15T22:05:41.134Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "Set JVM Id to 1"
-            ],
-            "lat":47.948572,
-            "lon":-129.098661,
-            "modifiedBy":114360,
-            "modifiedDate":"2024-02-15T22:05:41.134Z",
-            "modifyByName":"Patrick Frisby",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19670100
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"Set JVM Id to 0"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":2195.0
+            },
+            "endDate":{
+                "0":"2026-04-21T18:24:57.075Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "Set JVM Id to 0"
+                ]
+            },
+            "lat":{
+                "0":47.948572
+            },
+            "lon":{
+                "0":-129.098661
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-04-21T18:24:57.075Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Patrick Frisby",
-            "published":true,
-            "resourceId":11157,
-            "resourceName":"Geosense Short Period Seismometer 116 (11157)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-02-15T22:05:41.134Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":11157
+            },
+            "resourceName":{
+                "0":"Geosense Short Period Seismometer 116 (11157)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-21T18:24:57.075Z"
+            }
         }
     },
     "19":{
@@ -824,38 +1313,9 @@
         "depth":2276.0,
         "heading":88.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=74400",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11595110,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-6244 (Mothra)",
-            "createdBy":48400,
-            "depth":2276.0,
-            "endDate":"2023-10-12T00:00:00.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                6
-            ],
-            "formFieldValues":[
-                "Commissioning",
-                "DATA-6244 (Mothra)"
-            ],
-            "lat":47.92402315,
-            "lon":-129.10812117,
-            "modifiedBy":48400,
-            "modifiedDate":"2023-10-12T20:29:25.551Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":74400,
-            "resourceName":"Guralp Orcus Broadband Seismometer SN T310920 (74400)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-07-19T20:26:35.135Z"
         }
     },
     "20":{
@@ -874,36 +1334,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/d9f0b685-087f-4e5f-858b-e2ac33425a62",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66820",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10518180,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-9.0,
-            "endDate":"2022-11-02T20:45:09.325Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.03308,
-            "lon":-127.373667,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-11-02T20:45:09.325Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66820,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001567) (66820)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-11-02T20:45:09.325Z"
         }
     },
     "21":{
@@ -922,36 +1355,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/070788f7-a12f-426f-8ad8-56c5db23f100",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=29599",
+        "deviceId":null,
         "annotation":{
-            "annotationId":5920180,
-            "annotationSource":"DMAS",
-            "annotationSummary":"SYS-12348 (Start Command)",
-            "createdBy":22915,
-            "depth":-1310.0,
-            "endDate":"2019-07-05T23:32:29.033Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "SYS-12348 (Start Command)"
-            ],
-            "lat":48.99973,
-            "lon":-124.69705,
-            "modifiedBy":22915,
-            "modifiedDate":"2019-07-05T23:32:29.033Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":5920180
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"SYS-12348 (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-1310.0
+            },
+            "endDate":{
+                "0":"2019-07-05T23:32:29.033Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "SYS-12348 (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.99973
+            },
+            "lon":{
+                "0":-124.69705
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2019-07-05T23:32:29.033Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":29599,
-            "resourceName":"Nanometrics Titan (S\/N 001110) (29599)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2019-07-05T23:32:29.033Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":29599
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 001110) (29599)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2019-07-05T23:32:29.033Z"
+            }
         }
     },
     "22":{
@@ -970,36 +1447,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24309",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16818400,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":9690,
-            "depth":-105.0,
-            "endDate":"2025-07-04T20:05:48.319Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.23721622,
-            "lon":-124.06301839,
-            "modifiedBy":9690,
-            "modifiedDate":"2025-07-04T20:05:48.319Z",
-            "modifyByName":"Duncan Hogg",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19214600
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"SYS-19589 (Start Command)"
+            },
+            "createdBy":{
+                "0":47560
+            },
+            "depth":{
+                "0":-105.0
+            },
+            "endDate":{
+                "0":"2025-12-12T17:54:58.919Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "SYS-19589 (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.23721622
+            },
+            "lon":{
+                "0":-124.06301839
+            },
+            "modifiedBy":{
+                "0":47560
+            },
+            "modifiedDate":{
+                "0":"2025-12-12T17:54:58.919Z"
+            },
+            "modifyByName":{
+                "0":"Erkan Ersan"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Duncan Hogg",
-            "published":true,
-            "resourceId":24309,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000819) (24309)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-07-04T20:05:48.319Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Erkan Ersan"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24309
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000819) (24309)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2025-12-12T17:54:58.919Z"
+            }
         }
     },
     "23":{
@@ -1013,40 +1534,9 @@
         "depth":2656.0,
         "heading":360.0,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=80732",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11789750,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Data Quality | Lots of gaps and noise on all three hig-rate velocity channels. Instrument cannot be reset as connections to JB ar weak (INSTR-2397) | high",
-            "createdBy":48400,
-            "depth":2656.0,
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                123,
-                126
-            ],
-            "formFieldValues":[
-                "Data Quality",
-                "Lots of gaps and noise on all three hig-rate velocity channels. Instrument cannot be reset as connections to JB ar weak (INSTR-2397)",
-                "high"
-            ],
-            "lat":47.76258,
-            "lon":-127.758102,
-            "modifiedBy":48400,
-            "modifiedDate":"2023-12-21T17:51:30.629Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":80732,
-            "resourceName":"Guralp Orcus Broadband Seismometer SN T311164 (80732)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-12-14T14:00:00.000Z",
-            "endDate":null
         }
     },
     "24":{
@@ -1065,36 +1555,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/9718e384-2732-4ce5-907a-5b3f9fc9105c",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=22057",
+        "deviceId":null,
         "annotation":{
-            "annotationId":178602,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Set JVM Id to 0",
-            "createdBy":22915,
-            "depth":1256.0,
-            "endDate":"2014-09-17T18:55:32.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "Set JVM Id to 0"
-            ],
-            "lat":48.6705366667,
-            "lon":-126.8487666667,
-            "modifiedBy":22915,
-            "modifiedDate":"2014-09-17T18:55:32.000Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":178602
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"Set JVM Id to 0"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":1256.0
+            },
+            "endDate":{
+                "0":"2014-09-17T18:55:32.000Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "Set JVM Id to 0"
+                ]
+            },
+            "lat":{
+                "0":48.6705366667
+            },
+            "lon":{
+                "0":-126.8487666667
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2014-09-17T18:55:32.000Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":22057,
-            "resourceName":"Guralp CMG-IT Broadband Seismometer 2217 (22057)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2014-09-17T18:55:32.000Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":22057
+            },
+            "resourceName":{
+                "0":"Guralp CMG-IT Broadband Seismometer 2217 (22057)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2014-09-17T18:55:32.000Z"
+            }
         }
     },
     "25":{
@@ -1113,36 +1647,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/6819b2da-6deb-4ce7-8e0f-f01410269262",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24075",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16215300,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":9690,
-            "depth":1259.0,
-            "endDate":"2025-05-21T21:53:35.972Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.67047314,
-            "lon":-126.84770139,
-            "modifiedBy":9690,
-            "modifiedDate":"2025-05-21T21:53:35.972Z",
-            "modifyByName":"Duncan Hogg",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19668300
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":1259.0
+            },
+            "endDate":{
+                "0":"2026-04-21T18:05:33.489Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.67047314
+            },
+            "lon":{
+                "0":-126.84770139
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-04-21T18:05:33.489Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Duncan Hogg",
-            "published":true,
-            "resourceId":24075,
-            "resourceName":"Nanometrics TitanEA (S\/N 000647) (24075)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-05-21T21:53:35.972Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24075
+            },
+            "resourceName":{
+                "0":"Nanometrics TitanEA (S\/N 000647) (24075)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-21T18:05:33.489Z"
+            }
         }
     },
     "26":{
@@ -1161,36 +1739,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/cd15a442-56bc-49d0-9ad8-c4e04ff0053e",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24150",
+        "deviceId":null,
         "annotation":{
-            "annotationId":17213500,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":9690,
-            "depth":1259.0,
-            "endDate":"2025-08-22T00:31:15.767Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.67086956,
-            "lon":-126.84814131,
-            "modifiedBy":9690,
-            "modifiedDate":"2025-08-22T00:31:15.767Z",
-            "modifyByName":"Duncan Hogg",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19668400
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":1259.0
+            },
+            "endDate":{
+                "0":"2026-04-21T18:05:33.517Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.67086956
+            },
+            "lon":{
+                "0":-126.84814131
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2026-04-21T18:05:33.517Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Duncan Hogg",
-            "published":true,
-            "resourceId":24150,
-            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63055 (24150)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-08-22T00:31:15.767Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24150
+            },
+            "resourceName":{
+                "0":"RBRconcerto Tilt Meter ACC.BPR 63055 (24150)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-21T18:05:33.517Z"
+            }
         }
     },
     "27":{
@@ -1209,7 +1831,7 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/ae8d9fe5-3807-4a4a-a7b5-fbe29f1c5b08",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=13117",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1230,36 +1852,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/7d387b5f-c90a-423c-92dc-6ba82b0bfa18",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=23454",
+        "deviceId":null,
         "annotation":{
-            "annotationId":16526700,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":394.0,
-            "endDate":"2025-05-27T06:40:37.094Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.42657478,
-            "lon":-126.17465246,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-05-27T06:40:37.094Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "3":19674600
+            },
+            "annotationSource":{
+                "3":"DMAS"
+            },
+            "annotationSummary":{
+                "3":". (Stop Command)"
+            },
+            "createdBy":{
+                "3":88490
+            },
+            "depth":{
+                "3":394.0
+            },
+            "flagged":{
+                "3":false
+            },
+            "formFieldIds":{
+                "3":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "3":[
+                    ". (Stop Command)"
+                ]
+            },
+            "lat":{
+                "3":48.42657478
+            },
+            "lon":{
+                "3":-126.17465246
+            },
+            "modifiedBy":{
+                "3":88490
+            },
+            "modifiedDate":{
+                "3":"2026-04-21T18:49:03.781Z"
+            },
+            "modifyByName":{
+                "3":"Richard Burdick"
+            },
+            "orderedFormFieldValues":{
+                "3":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":23454,
-            "resourceName":"Nanometrics TitanEA (S\/N 000145) (23454)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-05-27T06:40:37.094Z"
+                ]
+            },
+            "ownerName":{
+                "3":"Richard Burdick"
+            },
+            "published":{
+                "3":true
+            },
+            "resourceId":{
+                "3":23454
+            },
+            "resourceName":{
+                "3":"Nanometrics TitanEA (S\/N 000145) (23454)"
+            },
+            "resourceTypeId":{
+                "3":2
+            },
+            "resourceTypeName":{
+                "3":"Device"
+            },
+            "startDate":{
+                "3":"2026-04-21T18:49:03.781Z"
+            },
+            "endDate":{
+                "3":"2026-04-21T18:49:03.781Z"
+            }
         }
     },
     "29":{
@@ -1278,9 +1944,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/c77992ac-606c-4c71-9658-39cb81a13292",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=16001",
+        "deviceId":null,
         "annotation":{
+            "annotationId":{
+                "0":19662800
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"Set JVM Id to 0"
+            },
+            "createdBy":{
+                "0":88490
+            },
+            "depth":{
+                "0":2158.0
+            },
+            "endDate":{
+                "0":"2026-04-18T01:15:04.075Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "Set JVM Id to 0"
+                ]
+            },
+            "lat":{
+                "0":47.9736383
+            },
+            "lon":{
+                "0":-129.08191812
+            },
+            "modifiedBy":{
+                "0":88490
+            },
+            "modifiedDate":{
+                "0":"2026-04-18T01:15:04.075Z"
+            },
+            "modifyByName":{
+                "0":"Richard Burdick"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
+                ]
+            },
+            "ownerName":{
+                "0":"Richard Burdick"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":16001
+            },
+            "resourceName":{
+                "0":"Geosense Short Period Seismometer 117 (16001)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-04-18T01:15:04.075Z"
+            }
         }
     },
     "30":{
@@ -1299,36 +2036,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/14618fa7-84e0-4f54-9ea0-5302d761ec6f",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=29659",
+        "deviceId":null,
         "annotation":{
-            "annotationId":5920220,
-            "annotationSource":"DMAS",
-            "annotationSummary":"SYS-12348 (Start Command)",
-            "createdBy":22915,
-            "depth":-1296.0,
-            "endDate":"2019-07-05T23:34:25.947Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "SYS-12348 (Start Command)"
-            ],
-            "lat":50.40301,
-            "lon":-126.0559,
-            "modifiedBy":22915,
-            "modifiedDate":"2019-07-05T23:34:25.947Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":5920220
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"SYS-12348 (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-1296.0
+            },
+            "endDate":{
+                "0":"2019-07-05T23:34:25.947Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "SYS-12348 (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":50.40301
+            },
+            "lon":{
+                "0":-126.0559
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2019-07-05T23:34:25.947Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":29659,
-            "resourceName":"Nanometrics Titan (S\/N 1113) (29659)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2019-07-05T23:34:25.947Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":29659
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 1113) (29659)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2019-07-05T23:34:25.947Z"
+            }
         }
     },
     "31":{
@@ -1347,36 +2128,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/3aa40bfe-6737-4ef0-bf9b-dc4e0704bd96",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68440",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15415400,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Set Log Level Command to INFO",
-            "createdBy":22915,
-            "depth":-15.0,
-            "endDate":"2024-10-21T19:18:09.569Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "Set Log Level Command to INFO"
-            ],
-            "lat":48.86068644,
-            "lon":-124.65578477,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-10-21T19:18:09.569Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":68440,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001682) (68440)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-10-21T19:18:09.569Z"
         }
     },
     "32":{
@@ -1390,7 +2144,7 @@
         "depth":244.0,
         "heading":null,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24046",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1406,7 +2160,7 @@
         "depth":274.0,
         "heading":null,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24203",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1422,7 +2176,7 @@
         "depth":305.0,
         "heading":null,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24202",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1438,7 +2192,7 @@
         "depth":-8.0,
         "heading":null,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=22936",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1454,7 +2208,7 @@
         "depth":308.0,
         "heading":null,
         "citation":null,
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=22935",
+        "deviceId":null,
         "annotation":{
 
         }
@@ -1475,36 +2229,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/dda2b2fc-9fcd-47f1-b969-8529bf9de0c4",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24324",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11780980,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-21.0,
-            "endDate":"2023-12-15T02:00:38.922Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.42978,
-            "lon":-127.4881,
-            "modifiedBy":22915,
-            "modifiedDate":"2023-12-15T02:00:38.922Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19718000
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":110080
+            },
+            "depth":{
+                "0":-21.0
+            },
+            "endDate":{
+                "0":"2026-05-20T18:26:38.273Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":50.42978
+            },
+            "lon":{
+                "0":-127.4881
+            },
+            "modifiedBy":{
+                "0":110080
+            },
+            "modifiedDate":{
+                "0":"2026-05-20T18:26:38.273Z"
+            },
+            "modifyByName":{
+                "0":"Sullivan Mair"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24324,
-            "resourceName":"Nanometrics Titan SMA (S\/N 00353) (24324)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-12-15T02:00:38.922Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Sullivan Mair"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24324
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 00353) (24324)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-05-20T18:26:38.273Z"
+            }
         }
     },
     "38":{
@@ -1523,36 +2321,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/ae35a37d-0928-4363-bfb3-990e4deaf61e",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24067",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9927410,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-15.0,
-            "endDate":"2022-03-11T17:13:58.552Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.64983,
-            "lon":-123.45206,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T17:13:58.552Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9927410
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-15.0
+            },
+            "endDate":{
+                "0":"2022-03-11T17:13:58.552Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.64983
+            },
+            "lon":{
+                "0":-123.45206
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T17:13:58.552Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24067,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000640) (24067)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T17:13:58.552Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24067
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000640) (24067)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T17:13:58.552Z"
+            }
         }
     },
     "39":{
@@ -1571,36 +2413,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/8caab894-0dcf-45cd-8c8b-9278a783b225",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24059",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15625800,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Set JVM Id to 73",
-            "createdBy":9690,
-            "depth":-149.0,
-            "endDate":"2024-12-23T19:41:42.510Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "Set JVM Id to 73"
-            ],
-            "lat":50.70615,
-            "lon":-127.514717,
-            "modifiedBy":9690,
-            "modifiedDate":"2024-12-23T19:41:42.510Z",
-            "modifyByName":"Duncan Hogg",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19697400
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Stop Command)"
+            },
+            "createdBy":{
+                "0":110080
+            },
+            "depth":{
+                "0":-149.0
+            },
+            "endDate":{
+                "0":"2026-05-05T17:56:23.082Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Stop Command)"
+                ]
+            },
+            "lat":{
+                "0":50.70615
+            },
+            "lon":{
+                "0":-127.514717
+            },
+            "modifiedBy":{
+                "0":110080
+            },
+            "modifiedDate":{
+                "0":"2026-05-05T17:56:23.082Z"
+            },
+            "modifyByName":{
+                "0":"Sullivan Mair"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Duncan Hogg",
-            "published":true,
-            "resourceId":24059,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000617) (24059)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-12-23T19:41:42.510Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Sullivan Mair"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24059
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000617) (24059)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2026-05-05T17:56:23.082Z"
+            }
         }
     },
     "40":{
@@ -1619,36 +2505,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/4b2dd2f9-4406-4daf-be12-6a3c2c5c324c",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=23650",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15688900,
-            "annotationSource":"DMAS",
-            "annotationSummary":"trident extra port change (Start Command)",
-            "createdBy":22915,
-            "depth":-20.0,
-            "endDate":"2025-02-24T22:22:51.892Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "trident extra port change (Start Command)"
-            ],
-            "lat":49.218886,
-            "lon":-124.811812,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-02-24T22:22:51.892Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":15688900
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"trident extra port change (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-20.0
+            },
+            "endDate":{
+                "0":"2025-02-24T22:22:51.892Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "trident extra port change (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.218886
+            },
+            "lon":{
+                "0":-124.811812
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2025-02-24T22:22:51.892Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":23650,
-            "resourceName":"Nanometrics TitanEA (S\/N 000131) (23650)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-02-24T22:22:51.892Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":23650
+            },
+            "resourceName":{
+                "0":"Nanometrics TitanEA (S\/N 000131) (23650)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2025-02-24T22:22:51.892Z"
+            }
         }
     },
     "41":{
@@ -1667,38 +2597,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/5f13f757-4732-4d26-9389-84c077d9b1c1",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66920",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9986330,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-5476",
-            "createdBy":48400,
-            "depth":-20.0,
-            "endDate":"2022-04-22T00:00:00.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                6
-            ],
-            "formFieldValues":[
-                "Commissioning",
-                "DATA-5476"
-            ],
-            "lat":49.218886,
-            "lon":-124.811812,
-            "modifiedBy":48400,
-            "modifiedDate":"2022-04-21T19:36:16.696Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":66920,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001570) (66920)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-04-09T19:35:51.000Z"
         }
     },
     "42":{
@@ -1717,38 +2618,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68460",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15688300,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-7081 (Port Renfrew)",
-            "createdBy":48400,
-            "depth":-16.0,
-            "endDate":"2025-01-27T00:00:00.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                6
-            ],
-            "formFieldValues":[
-                "Commissioning",
-                "DATA-7081 (Port Renfrew)"
-            ],
-            "lat":48.5565291,
-            "lon":-124.39959355,
-            "modifiedBy":48400,
-            "modifiedDate":"2025-02-24T21:46:53.621Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":68460,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001683) (68460)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-12-04T21:45:45.846Z"
         }
     },
     "43":{
@@ -1767,36 +2639,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/ec6a2bee-6cd9-41d8-9431-8e6a4352f676",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24318",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9927840,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-92.0,
-            "endDate":"2022-03-11T18:15:11.606Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.25632,
-            "lon":-124.8611,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T18:15:11.606Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9927840
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-92.0
+            },
+            "endDate":{
+                "0":"2022-03-11T18:15:11.606Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.25632
+            },
+            "lon":{
+                "0":-124.8611
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T18:15:11.606Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24318,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000845) (24318)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T18:15:11.606Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24318
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000845) (24318)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T18:15:11.606Z"
+            }
         }
     },
     "44":{
@@ -1815,36 +2731,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/c5285c95-ea76-4e10-81ec-ee86412c3904",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24412",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9929800,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-185.0,
-            "endDate":"2022-03-12T01:14:20.700Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.54423,
-            "lon":-124.41304,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-12T01:14:20.700Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9929800
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-185.0
+            },
+            "endDate":{
+                "0":"2022-03-12T01:14:20.700Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.54423
+            },
+            "lon":{
+                "0":-124.41304
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-12T01:14:20.700Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24412,
-            "resourceName":"Nanometrics Titan (S\/N 000969) (24412)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-12T01:14:20.700Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24412
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 000969) (24412)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-12T01:14:20.700Z"
+            }
         }
     },
     "45":{
@@ -1863,36 +2823,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/2d6137fd-baae-4cdb-b16b-8e0b279e654e",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=67000",
+        "deviceId":null,
         "annotation":{
-            "annotationId":19092400,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-14.0,
-            "endDate":"2025-11-13T18:52:17.855Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.11631,
-            "lon":-125.222188,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-11-13T18:52:17.855Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":67000,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001573) (67000)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-11-13T18:52:17.855Z"
         }
     },
     "46":{
@@ -1911,36 +2844,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/3a6fa8ca-4f95-4e27-b436-c57795d8c438",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24311",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10456810,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-5.0,
-            "endDate":"2022-10-03T18:11:21.839Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.13247,
-            "lon":-125.33072,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-10-03T18:11:21.839Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":10456810
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-5.0
+            },
+            "endDate":{
+                "0":"2022-10-03T18:11:21.839Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":50.13247
+            },
+            "lon":{
+                "0":-125.33072
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-10-03T18:11:21.839Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24311,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000836) (24311)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-10-03T18:11:21.839Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24311
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000836) (24311)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-10-03T18:11:21.839Z"
+            }
         }
     },
     "47":{
@@ -1959,36 +2936,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/c58bbb02-6dcd-4064-b1c2-78c821d1bf50",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66900",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11841120,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-11.0,
-            "endDate":"2024-01-26T02:45:26.771Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.397276,
-            "lon":-125.961756,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-01-26T02:45:26.771Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66900,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001569) (66900)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-01-26T02:45:26.771Z"
         }
     },
     "48":{
@@ -2007,36 +2957,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/772ac7a3-ab5d-4e7c-b01f-e6351b6fd14d",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=33039",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15668400,
-            "annotationSource":"DMAS",
-            "annotationSummary":"n (Start Command)",
-            "createdBy":22915,
-            "depth":-26.0,
-            "endDate":"2025-02-06T07:19:09.388Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "n (Start Command)"
-            ],
-            "lat":49.3476,
-            "lon":-126.25979,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-02-06T07:19:09.388Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":15668400
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"n (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-26.0
+            },
+            "endDate":{
+                "0":"2025-02-06T07:19:09.388Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "n (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.3476
+            },
+            "lon":{
+                "0":-126.25979
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2025-02-06T07:19:09.388Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":33039,
-            "resourceName":"Nanometrics Titan (S\/N 001117) (33039)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-02-06T07:19:09.388Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":33039
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 001117) (33039)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2025-02-06T07:19:09.388Z"
+            }
         }
     },
     "49":{
@@ -2055,38 +3049,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/8667d651-b118-4649-9d24-3eeadddce89a",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68540",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10456330,
-            "annotationSource":"DMAS",
-            "annotationSummary":"Commissioning | DATA-5771 (Saanich)",
-            "createdBy":48400,
-            "depth":-20.0,
-            "endDate":"2022-10-03T00:00:00.000Z",
-            "flagged":false,
-            "formFieldIds":[
-                5,
-                6
-            ],
-            "formFieldValues":[
-                "Commissioning",
-                "DATA-5771 (Saanich)"
-            ],
-            "lat":48.468465,
-            "lon":-123.296153,
-            "modifiedBy":48400,
-            "modifiedDate":"2022-10-03T17:00:07.219Z",
-            "modifyByName":"Angela Schlesinger",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Angela Schlesinger",
-            "published":true,
-            "resourceId":68540,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001704) (68540)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-09-28T16:59:43.337Z"
         }
     },
     "50":{
@@ -2105,36 +3070,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/58c36326-36c8-4cbb-afee-c7a4952859cf",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24313",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9928390,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-513.0,
-            "endDate":"2022-03-11T19:31:01.782Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.90003,
-            "lon":-125.64718,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T19:31:01.782Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9928390
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-513.0
+            },
+            "endDate":{
+                "0":"2022-03-11T19:31:01.782Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.90003
+            },
+            "lon":{
+                "0":-125.64718
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T19:31:01.782Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24313,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000840) (24313)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T19:31:01.782Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24313
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000840) (24313)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T19:31:01.782Z"
+            }
         }
     },
     "51":{
@@ -2153,36 +3162,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/294b8651-4b19-4c2e-97fd-8ac234f5db8a",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=30539",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9928860,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-945.0,
-            "endDate":"2022-03-11T22:16:42.667Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.55929,
-            "lon":-123.79893,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T22:16:42.667Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9928860
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-945.0
+            },
+            "endDate":{
+                "0":"2022-03-11T22:16:42.667Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.55929
+            },
+            "lon":{
+                "0":-123.79893
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T22:16:42.667Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":30539,
-            "resourceName":"Nanometrics Titan (S\/N 000895) (30539)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T22:16:42.667Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":30539
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 000895) (30539)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T22:16:42.667Z"
+            }
         }
     },
     "52":{
@@ -2201,36 +3254,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/791c9b48-96e8-46a4-a567-466976928768",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=32779",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9928910,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-465.0,
-            "endDate":"2022-03-11T22:25:37.772Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.8925,
-            "lon":-126.677,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T22:25:37.772Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9928910
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-465.0
+            },
+            "endDate":{
+                "0":"2022-03-11T22:25:37.772Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.8925
+            },
+            "lon":{
+                "0":-126.677
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T22:25:37.772Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":32779,
-            "resourceName":"Nanometrics Titan (S\/N 001097) (32779)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T22:25:37.772Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":32779
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan (S\/N 001097) (32779)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T22:25:37.772Z"
+            }
         }
     },
     "53":{
@@ -2249,36 +3346,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/d6cf02a0-6e66-4d02-b23c-979fdc95ccb1",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66860",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9929690,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-60.0,
-            "endDate":"2022-03-12T00:08:24.033Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.294836,
-            "lon":-125.299886,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-12T00:08:24.033Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66860,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001672) (66860)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-12T00:08:24.033Z"
         }
     },
     "54":{
@@ -2297,36 +3367,9 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/ff6b41d2-e5e2-442a-99d9-9da0f142fbc0",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66800",
+        "deviceId":null,
         "annotation":{
-            "annotationId":10010140,
-            "annotationSource":"DMAS",
-            "annotationSummary":"first start (Start Command)",
-            "createdBy":22915,
-            "depth":-9.0,
-            "endDate":"2022-05-04T19:20:56.737Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                "first start (Start Command)"
-            ],
-            "lat":50.545933,
-            "lon":-126.832395,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-05-04T19:20:56.737Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66800,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001544) (66800)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-05-04T19:20:56.737Z"
         }
     },
     "55":{
@@ -2345,36 +3388,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/84d8d5d2-2094-4f2f-a68e-acdad3bee3b5",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24070",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9929030,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-8.0,
-            "endDate":"2022-03-11T22:35:53.610Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":48.92457,
-            "lon":-125.54198,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T22:35:53.610Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":19211800
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":"SYS-19589 (Start Command)"
+            },
+            "createdBy":{
+                "0":47560
+            },
+            "depth":{
+                "0":-8.0
+            },
+            "endDate":{
+                "0":"2025-12-11T20:19:37.974Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    "SYS-19589 (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":48.92457
+            },
+            "lon":{
+                "0":-125.54198
+            },
+            "modifiedBy":{
+                "0":47560
+            },
+            "modifiedDate":{
+                "0":"2025-12-11T20:19:37.974Z"
+            },
+            "modifyByName":{
+                "0":"Erkan Ersan"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24070,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000643) (24070)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T22:35:53.610Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Erkan Ersan"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24070
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000643) (24070)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2025-12-11T20:19:37.974Z"
+            }
         }
     },
     "56":{
@@ -2393,36 +3480,80 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/b9039350-b6c2-456b-a553-42a0a50d9194",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24312",
+        "deviceId":null,
         "annotation":{
-            "annotationId":18094100,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-1572.0,
-            "endDate":"2025-09-18T22:03:34.788Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.00632,
-            "lon":-126.10854,
-            "modifiedBy":22915,
-            "modifiedDate":"2025-09-18T22:03:34.788Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "1":18094100
+            },
+            "annotationSource":{
+                "1":"DMAS"
+            },
+            "annotationSummary":{
+                "1":". (Start Command)"
+            },
+            "createdBy":{
+                "1":22915
+            },
+            "depth":{
+                "1":-1572.0
+            },
+            "flagged":{
+                "1":false
+            },
+            "formFieldIds":{
+                "1":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "1":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "1":50.00632
+            },
+            "lon":{
+                "1":-126.10854
+            },
+            "modifiedBy":{
+                "1":22915
+            },
+            "modifiedDate":{
+                "1":"2025-09-18T22:03:34.788Z"
+            },
+            "modifyByName":{
+                "1":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "1":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24312,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000839) (24312)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2025-09-18T22:03:34.788Z"
+                ]
+            },
+            "ownerName":{
+                "1":"Seann Wagner"
+            },
+            "published":{
+                "1":true
+            },
+            "resourceId":{
+                "1":24312
+            },
+            "resourceName":{
+                "1":"Nanometrics Titan SMA (S\/N 000839) (24312)"
+            },
+            "resourceTypeId":{
+                "1":2
+            },
+            "resourceTypeName":{
+                "1":"Device"
+            },
+            "startDate":{
+                "1":"2025-09-18T22:03:34.788Z"
+            },
+            "endDate":{
+                "1":"2025-09-18T22:03:34.788Z"
+            }
         }
     },
     "57":{
@@ -2441,39 +3572,33 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/9af239d0-db6f-446a-bb53-4df5c5244e0a",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=66960",
+        "deviceId":null,
         "annotation":{
-            "annotationId":11778970,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-1.0,
-            "endDate":"2023-12-13T21:07:39.010Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":50.52703,
-            "lon":-128.01686,
-            "modifiedBy":22915,
-            "modifiedDate":"2023-12-13T21:07:39.010Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":66960,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001572) (66960)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2023-12-13T21:07:39.010Z"
         }
     },
     "58":{
+        "locationCode":"WOSB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001677",
+        "begin":"2026-03-31T16:30:00.000Z",
+        "end":null,
+        "lat":50.213376,
+        "lon":-126.602131,
+        "depth":-157.0,
+        "heading":2.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2026. Woss Lake Accelerometer Deployed 2026-03-31. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739.",
+            "doi":"10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739",
+            "queryPid":null
+        },
+        "deviceId":null,
+        "annotation":{
+
+        }
+    },
+    "59":{
         "locationCode":"YWPT",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA001701",
@@ -2489,39 +3614,12 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/23f9e7cc-fc9a-43cd-8eca-52019f9f9b1a",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=68480",
+        "deviceId":null,
         "annotation":{
-            "annotationId":15619200,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-3.0,
-            "endDate":"2024-12-18T19:52:39.272Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.046248,
-            "lon":-123.756308,
-            "modifiedBy":22915,
-            "modifiedDate":"2024-12-18T19:52:39.272Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":68480,
-            "resourceName":"Nanometrics Titan SMA (S\/N 001701) (68480)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2024-12-18T19:52:39.272Z"
         }
     },
-    "59":{
+    "60":{
         "locationCode":"ZEBA.W3",
         "deviceCategoryCode":"ACCELEROMETER",
         "deviceCode":"NANOMETRICSTITANSMA000843",
@@ -2537,36 +3635,94 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/8e0cc174-41a2-461b-9447-2d41017c6c47",
             "queryPid":null
         },
-        "deviceId":"https:\/\/data.oceannetworks.ca\/DeviceListing?DeviceId=24316",
+        "deviceId":null,
         "annotation":{
-            "annotationId":9928740,
-            "annotationSource":"DMAS",
-            "annotationSummary":". (Start Command)",
-            "createdBy":22915,
-            "depth":-42.0,
-            "endDate":"2022-03-11T21:47:34.925Z",
-            "flagged":false,
-            "formFieldIds":[
-                4
-            ],
-            "formFieldValues":[
-                ". (Start Command)"
-            ],
-            "lat":49.98961,
-            "lon":-126.85058,
-            "modifiedBy":22915,
-            "modifiedDate":"2022-03-11T21:47:34.925Z",
-            "modifyByName":"Seann Wagner",
-            "orderedFormFieldValues":[
+            "annotationId":{
+                "0":9928740
+            },
+            "annotationSource":{
+                "0":"DMAS"
+            },
+            "annotationSummary":{
+                "0":". (Start Command)"
+            },
+            "createdBy":{
+                "0":22915
+            },
+            "depth":{
+                "0":-42.0
+            },
+            "endDate":{
+                "0":"2022-03-11T21:47:34.925Z"
+            },
+            "flagged":{
+                "0":false
+            },
+            "formFieldIds":{
+                "0":[
+                    4
+                ]
+            },
+            "formFieldValues":{
+                "0":[
+                    ". (Start Command)"
+                ]
+            },
+            "lat":{
+                "0":49.98961
+            },
+            "lon":{
+                "0":-126.85058
+            },
+            "modifiedBy":{
+                "0":22915
+            },
+            "modifiedDate":{
+                "0":"2022-03-11T21:47:34.925Z"
+            },
+            "modifyByName":{
+                "0":"Seann Wagner"
+            },
+            "orderedFormFieldValues":{
+                "0":[
 
-            ],
-            "ownerName":"Seann Wagner",
-            "published":true,
-            "resourceId":24316,
-            "resourceName":"Nanometrics Titan SMA (S\/N 000843) (24316)",
-            "resourceTypeId":2,
-            "resourceTypeName":"Device",
-            "startDate":"2022-03-11T21:47:34.925Z"
+                ]
+            },
+            "ownerName":{
+                "0":"Seann Wagner"
+            },
+            "published":{
+                "0":true
+            },
+            "resourceId":{
+                "0":24316
+            },
+            "resourceName":{
+                "0":"Nanometrics Titan SMA (S\/N 000843) (24316)"
+            },
+            "resourceTypeId":{
+                "0":2
+            },
+            "resourceTypeName":{
+                "0":"Device"
+            },
+            "startDate":{
+                "0":"2022-03-11T21:47:34.925Z"
+            }
         }
+    },
+    "61":{
+        "locationCode":null,
+        "deviceCategoryCode":null,
+        "deviceCode":null,
+        "begin":null,
+        "end":null,
+        "lat":49.98961,
+        "lon":-126.85058,
+        "depth":-42.0,
+        "heading":null,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
     }
 }
