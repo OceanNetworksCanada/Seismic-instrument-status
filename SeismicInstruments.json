@@ -16,80 +16,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9925620
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-29.0
-            },
-            "endDate":{
-                "0":"2022-03-10T20:10:40.555Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.38981
-            },
-            "lon":{
-                "0":-123.48739
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-10T20:10:40.555Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24061
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000619) (24061)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-10T20:10:40.555Z"
-            }
-        }
+        "annotation":null
     },
     "1":{
         "locationCode":"BACME.W1",
@@ -108,80 +35,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19656200
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":897.0
-            },
-            "endDate":{
-                "0":"2026-04-18T00:46:10.873Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.31462653
-            },
-            "lon":{
-                "0":-126.05810591
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-04-18T00:46:10.873Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24074
-            },
-            "resourceName":{
-                "0":"Nanometrics TitanEA (S\/N 000646) (24074)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-18T00:46:10.873Z"
-            }
-        }
+        "annotation":null
     },
     "2":{
         "locationCode":"BACND.Z1",
@@ -200,80 +54,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19774000
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":644.0
-            },
-            "endDate":{
-                "0":"2026-06-02T16:47:34.156Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.34548182
-            },
-            "lon":{
-                "0":-126.1574387
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-06-02T16:47:34.156Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24154
-            },
-            "resourceName":{
-                "0":"RBRconcerto Tilt Meter ACC.BPR 63056 (24154)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-06-02T16:47:34.156Z"
-            }
-        }
+        "annotation":null
     },
     "3":{
         "locationCode":"BAMF",
@@ -292,80 +73,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":15451900
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":114360
-            },
-            "depth":{
-                "0":-9.0
-            },
-            "endDate":{
-                "0":"2024-11-01T22:33:16.882Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.83533
-            },
-            "lon":{
-                "0":-125.13514
-            },
-            "modifiedBy":{
-                "0":114360
-            },
-            "modifiedDate":{
-                "0":"2024-11-01T22:33:16.882Z"
-            },
-            "modifyByName":{
-                "0":"Patrick Frisby"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Patrick Frisby"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24064
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000637) (24064)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2024-11-01T22:33:16.882Z"
-            }
-        }
+        "annotation":null
     },
     "4":{
         "locationCode":"CBC27",
@@ -379,9 +87,7 @@
         "heading":357.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "5":{
         "locationCode":"CBC27.W1",
@@ -400,80 +106,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19658400
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":2661.0
-            },
-            "endDate":{
-                "0":"2026-04-18T00:53:20.449Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":47.756685
-            },
-            "lon":{
-                "0":-127.731932
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-04-18T00:53:20.449Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24433
-            },
-            "resourceName":{
-                "0":"Nanometrics TitanEA (S\/N 000788) (24433)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-18T00:53:20.449Z"
-            }
-        }
+        "annotation":null
     },
     "6":{
         "locationCode":"CBC27.Z1",
@@ -492,84 +125,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19676900
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"No data due to communication issues | Data Gap | medium"
-            },
-            "createdBy":{
-                "0":48400
-            },
-            "depth":{
-                "0":2656.0
-            },
-            "endDate":{
-                "0":"2026-04-22T20:06:00.000Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4,
-                    5,
-                    126
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "No data due to communication issues",
-                    "Data Gap",
-                    "medium"
-                ]
-            },
-            "lat":{
-                "0":47.756717
-            },
-            "lon":{
-                "0":-127.731602
-            },
-            "modifiedBy":{
-                "0":48400
-            },
-            "modifiedDate":{
-                "0":"2026-04-22T20:45:08.981Z"
-            },
-            "modifyByName":{
-                "0":"Angela Schlesinger"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Angela Schlesinger"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24155
-            },
-            "resourceName":{
-                "0":"RBRconcerto Tilt Meter ACC.BPR 63057 (24155)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-14T15:30:00.806Z"
-            }
-        }
+        "annotation":null
     },
     "7":{
         "locationCode":"CDFE",
@@ -583,9 +139,7 @@
         "heading":0.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "8":{
         "locationCode":"CDFM",
@@ -599,9 +153,7 @@
         "heading":108.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "9":{
         "locationCode":"CDFW",
@@ -615,9 +167,7 @@
         "heading":0.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "10":{
         "locationCode":"CLRS",
@@ -636,80 +186,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9926070
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-174.0
-            },
-            "endDate":{
-                "0":"2022-03-10T21:41:00.442Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.82032
-            },
-            "lon":{
-                "0":-124.1309
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-10T21:41:00.442Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24411
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 000943) (24411)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-10T21:41:00.442Z"
-            }
-        }
+        "annotation":null
     },
     "11":{
         "locationCode":"CMBR",
@@ -728,80 +205,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":15625900
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":", (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-328.0
-            },
-            "endDate":{
-                "0":"2024-12-23T20:30:50.077Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ", (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.59497
-            },
-            "lon":{
-                "0":-125.01135
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2024-12-23T20:30:50.077Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24063
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000636) (24063)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2024-12-23T20:30:50.077Z"
-            }
-        }
+        "annotation":null
     },
     "12":{
         "locationCode":"CQS64.W1",
@@ -820,80 +224,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19707300
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":47560
-            },
-            "depth":{
-                "0":1318.0
-            },
-            "endDate":{
-                "0":"2026-05-13T18:14:00.339Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.69971814
-            },
-            "lon":{
-                "0":-126.87261781
-            },
-            "modifiedBy":{
-                "0":47560
-            },
-            "modifiedDate":{
-                "0":"2026-05-13T18:14:00.339Z"
-            },
-            "modifyByName":{
-                "0":"Erkan Ersan"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Erkan Ersan"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24432
-            },
-            "resourceName":{
-                "0":"Nanometrics TitanEA (S\/N 000787) (24432)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-05-13T18:14:00.339Z"
-            }
-        }
+        "annotation":null
     },
     "13":{
         "locationCode":"ENEF",
@@ -907,174 +238,21 @@
         "heading":344.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":10420260
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"Commissioning | DATA-5705"
-            },
-            "createdBy":{
-                "0":110440
-            },
-            "depth":{
-                "0":-20.0
-            },
-            "endDate":{
-                "0":"2022-09-16T00:00:00.000Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    5,
-                    6
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "Commissioning",
-                    "DATA-5705"
-                ]
-            },
-            "lat":{
-                "0":48.6494983333
-            },
-            "lon":{
-                "0":-123.4454733333
-            },
-            "modifiedBy":{
-                "0":110440
-            },
-            "modifiedDate":{
-                "0":"2022-09-16T18:08:10.416Z"
-            },
-            "modifyByName":{
-                "0":"Alireza Babaeimahani"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Alireza Babaeimahani"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":39380
-            },
-            "resourceName":{
-                "0":"Maris Seismometer TR1302 (0516) (39380)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-07-31T18:00:42.845Z"
-            }
-        }
+        "annotation":null
     },
     "14":{
         "locationCode":"ENWF",
         "deviceCategoryCode":"BBS",
-        "deviceCode":"GURALPBBSEISMO2533",
-        "begin":"2016-06-21T17:35:32.000Z",
+        "deviceCode":"NANOMETRICSOBST360015378",
+        "begin":"2026-08-27T22:11:00.000Z",
         "end":null,
-        "lat":47.959766,
-        "lon":-129.124479,
-        "depth":2361.0,
+        "lat":47.959696,
+        "lon":-129.124477,
+        "depth":2366.0,
         "heading":0.0,
-        "citation":{
-            "citation":"Ocean Networks Canada Society. 2016. West Flank Broadband Seismometer Deployed 2016-06-21. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/953f57b5-1313-447f-b374-aed116c1d4bf.",
-            "doi":"10.34943\/953f57b5-1313-447f-b374-aed116c1d4bf",
-            "landingPageUrl":"https:\/\/doi.org\/10.34943\/953f57b5-1313-447f-b374-aed116c1d4bf",
-            "queryPid":null
-        },
+        "citation":null,
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "1":7956650
-            },
-            "annotationSource":{
-                "1":"DMAS"
-            },
-            "annotationSummary":{
-                "1":"Set JVM Id to 0"
-            },
-            "createdBy":{
-                "1":47560
-            },
-            "depth":{
-                "1":2361.0
-            },
-            "flagged":{
-                "1":false
-            },
-            "formFieldIds":{
-                "1":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "1":[
-                    "Set JVM Id to 0"
-                ]
-            },
-            "lat":{
-                "1":47.959766
-            },
-            "lon":{
-                "1":-129.124479
-            },
-            "modifiedBy":{
-                "1":47560
-            },
-            "modifiedDate":{
-                "1":"2021-09-13T23:44:35.550Z"
-            },
-            "modifyByName":{
-                "1":"Erkan Ersan"
-            },
-            "orderedFormFieldValues":{
-                "1":[
-
-                ]
-            },
-            "ownerName":{
-                "1":"Erkan Ersan"
-            },
-            "published":{
-                "1":true
-            },
-            "resourceId":{
-                "1":11057
-            },
-            "resourceName":{
-                "1":"Guralp CMG-IT Broadband Seismometer 2533 (11057)"
-            },
-            "resourceTypeId":{
-                "1":2
-            },
-            "resourceTypeName":{
-                "1":"Device"
-            },
-            "startDate":{
-                "1":"2021-09-13T23:44:35.550Z"
-            },
-            "endDate":{
-                "1":"2021-09-13T23:44:35.550Z"
-            }
-        }
+        "annotation":null
     },
     "15":{
         "locationCode":"ERMD",
@@ -1093,80 +271,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":11838110
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-5.0
-            },
-            "endDate":{
-                "0":"2024-01-24T23:59:19.124Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.19781
-            },
-            "lon":{
-                "0":-123.11988
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2024-01-24T23:59:19.124Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24310
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000834) (24310)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2024-01-24T23:59:19.124Z"
-            }
-        }
+        "annotation":null
     },
     "16":{
         "locationCode":"GLRI",
@@ -1185,9 +290,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "17":{
         "locationCode":"JRDR",
@@ -1206,9 +309,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "18":{
         "locationCode":"KEMF",
@@ -1227,80 +328,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19670100
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"Set JVM Id to 0"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":2195.0
-            },
-            "endDate":{
-                "0":"2026-04-21T18:24:57.075Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "Set JVM Id to 0"
-                ]
-            },
-            "lat":{
-                "0":47.948572
-            },
-            "lon":{
-                "0":-129.098661
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-04-21T18:24:57.075Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":11157
-            },
-            "resourceName":{
-                "0":"Geosense Short Period Seismometer 116 (11157)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-21T18:24:57.075Z"
-            }
-        }
+        "annotation":null
     },
     "19":{
         "locationCode":"KEMO",
@@ -1314,9 +342,7 @@
         "heading":88.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "20":{
         "locationCode":"KYUQ",
@@ -1335,9 +361,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "21":{
         "locationCode":"MGRB",
@@ -1356,80 +380,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":5920180
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"SYS-12348 (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-1310.0
-            },
-            "endDate":{
-                "0":"2019-07-05T23:32:29.033Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "SYS-12348 (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.99973
-            },
-            "lon":{
-                "0":-124.69705
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2019-07-05T23:32:29.033Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":29599
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 001110) (29599)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2019-07-05T23:32:29.033Z"
-            }
-        }
+        "annotation":null
     },
     "22":{
         "locationCode":"NANA",
@@ -1448,80 +399,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19214600
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"SYS-19589 (Start Command)"
-            },
-            "createdBy":{
-                "0":47560
-            },
-            "depth":{
-                "0":-105.0
-            },
-            "endDate":{
-                "0":"2025-12-12T17:54:58.919Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "SYS-19589 (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.23721622
-            },
-            "lon":{
-                "0":-124.06301839
-            },
-            "modifiedBy":{
-                "0":47560
-            },
-            "modifiedDate":{
-                "0":"2025-12-12T17:54:58.919Z"
-            },
-            "modifyByName":{
-                "0":"Erkan Ersan"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Erkan Ersan"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24309
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000819) (24309)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2025-12-12T17:54:58.919Z"
-            }
-        }
+        "annotation":null
     },
     "23":{
         "locationCode":"NC27",
@@ -1535,9 +413,7 @@
         "heading":360.0,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "24":{
         "locationCode":"NC89",
@@ -1556,80 +432,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":178602
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"Set JVM Id to 0"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":1256.0
-            },
-            "endDate":{
-                "0":"2014-09-17T18:55:32.000Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "Set JVM Id to 0"
-                ]
-            },
-            "lat":{
-                "0":48.6705366667
-            },
-            "lon":{
-                "0":-126.8487666667
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2014-09-17T18:55:32.000Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":22057
-            },
-            "resourceName":{
-                "0":"Guralp CMG-IT Broadband Seismometer 2217 (22057)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2014-09-17T18:55:32.000Z"
-            }
-        }
+        "annotation":null
     },
     "25":{
         "locationCode":"NC89.W1",
@@ -1648,80 +451,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19668300
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":1259.0
-            },
-            "endDate":{
-                "0":"2026-04-21T18:05:33.489Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.67047314
-            },
-            "lon":{
-                "0":-126.84770139
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-04-21T18:05:33.489Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24075
-            },
-            "resourceName":{
-                "0":"Nanometrics TitanEA (S\/N 000647) (24075)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-21T18:05:33.489Z"
-            }
-        }
+        "annotation":null
     },
     "26":{
         "locationCode":"NC89.Z1",
@@ -1740,80 +470,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19668400
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":1259.0
-            },
-            "endDate":{
-                "0":"2026-04-21T18:05:33.517Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.67086956
-            },
-            "lon":{
-                "0":-126.84814131
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2026-04-21T18:05:33.517Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24150
-            },
-            "resourceName":{
-                "0":"RBRconcerto Tilt Meter ACC.BPR 63055 (24150)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-21T18:05:33.517Z"
-            }
-        }
+        "annotation":null
     },
     "27":{
         "locationCode":"NCBC",
@@ -1832,9 +489,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "28":{
         "locationCode":"NCBC.W1",
@@ -1853,80 +508,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "3":19674600
-            },
-            "annotationSource":{
-                "3":"DMAS"
-            },
-            "annotationSummary":{
-                "3":". (Stop Command)"
-            },
-            "createdBy":{
-                "3":88490
-            },
-            "depth":{
-                "3":394.0
-            },
-            "flagged":{
-                "3":false
-            },
-            "formFieldIds":{
-                "3":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "3":[
-                    ". (Stop Command)"
-                ]
-            },
-            "lat":{
-                "3":48.42657478
-            },
-            "lon":{
-                "3":-126.17465246
-            },
-            "modifiedBy":{
-                "3":88490
-            },
-            "modifiedDate":{
-                "3":"2026-04-21T18:49:03.781Z"
-            },
-            "modifyByName":{
-                "3":"Richard Burdick"
-            },
-            "orderedFormFieldValues":{
-                "3":[
-
-                ]
-            },
-            "ownerName":{
-                "3":"Richard Burdick"
-            },
-            "published":{
-                "3":true
-            },
-            "resourceId":{
-                "3":23454
-            },
-            "resourceName":{
-                "3":"Nanometrics TitanEA (S\/N 000145) (23454)"
-            },
-            "resourceTypeId":{
-                "3":2
-            },
-            "resourceTypeName":{
-                "3":"Device"
-            },
-            "startDate":{
-                "3":"2026-04-21T18:49:03.781Z"
-            },
-            "endDate":{
-                "3":"2026-04-21T18:49:03.781Z"
-            }
-        }
+        "annotation":null
     },
     "29":{
         "locationCode":"NCHR",
@@ -1945,80 +527,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19662800
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"Set JVM Id to 0"
-            },
-            "createdBy":{
-                "0":88490
-            },
-            "depth":{
-                "0":2158.0
-            },
-            "endDate":{
-                "0":"2026-04-18T01:15:04.075Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "Set JVM Id to 0"
-                ]
-            },
-            "lat":{
-                "0":47.9736383
-            },
-            "lon":{
-                "0":-129.08191812
-            },
-            "modifiedBy":{
-                "0":88490
-            },
-            "modifiedDate":{
-                "0":"2026-04-18T01:15:04.075Z"
-            },
-            "modifyByName":{
-                "0":"Richard Burdick"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Richard Burdick"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":16001
-            },
-            "resourceName":{
-                "0":"Geosense Short Period Seismometer 117 (16001)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-04-18T01:15:04.075Z"
-            }
-        }
+        "annotation":null
     },
     "30":{
         "locationCode":"NCSB",
@@ -2037,80 +546,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":5920220
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"SYS-12348 (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-1296.0
-            },
-            "endDate":{
-                "0":"2019-07-05T23:34:25.947Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "SYS-12348 (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":50.40301
-            },
-            "lon":{
-                "0":-126.0559
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2019-07-05T23:34:25.947Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":29659
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 1113) (29659)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2019-07-05T23:34:25.947Z"
-            }
-        }
+        "annotation":null
     },
     "31":{
         "locationCode":"NITI",
@@ -2129,9 +565,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "32":{
         "locationCode":"NSMTC.B1",
@@ -2145,9 +579,7 @@
         "heading":null,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "33":{
         "locationCode":"NSMTC.B2",
@@ -2161,9 +593,7 @@
         "heading":null,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "34":{
         "locationCode":"NSMTC.B3",
@@ -2177,9 +607,7 @@
         "heading":null,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "35":{
         "locationCode":"NSMTC.G1",
@@ -2193,9 +621,7 @@
         "heading":null,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "36":{
         "locationCode":"NSMTC.G2",
@@ -2209,9 +635,7 @@
         "heading":null,
         "citation":null,
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "37":{
         "locationCode":"PALI",
@@ -2230,80 +654,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19718000
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":110080
-            },
-            "depth":{
-                "0":-21.0
-            },
-            "endDate":{
-                "0":"2026-05-20T18:26:38.273Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":50.42978
-            },
-            "lon":{
-                "0":-127.4881
-            },
-            "modifiedBy":{
-                "0":110080
-            },
-            "modifiedDate":{
-                "0":"2026-05-20T18:26:38.273Z"
-            },
-            "modifyByName":{
-                "0":"Sullivan Mair"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Sullivan Mair"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24324
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 00353) (24324)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-05-20T18:26:38.273Z"
-            }
-        }
+        "annotation":null
     },
     "38":{
         "locationCode":"PGC5",
@@ -2322,80 +673,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9927410
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-15.0
-            },
-            "endDate":{
-                "0":"2022-03-11T17:13:58.552Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.64983
-            },
-            "lon":{
-                "0":-123.45206
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T17:13:58.552Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24067
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000640) (24067)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T17:13:58.552Z"
-            }
-        }
+        "annotation":null
     },
     "39":{
         "locationCode":"PHRD",
@@ -2414,80 +692,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19697400
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Stop Command)"
-            },
-            "createdBy":{
-                "0":110080
-            },
-            "depth":{
-                "0":-149.0
-            },
-            "endDate":{
-                "0":"2026-05-05T17:56:23.082Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Stop Command)"
-                ]
-            },
-            "lat":{
-                "0":50.70615
-            },
-            "lon":{
-                "0":-127.514717
-            },
-            "modifiedBy":{
-                "0":110080
-            },
-            "modifiedDate":{
-                "0":"2026-05-05T17:56:23.082Z"
-            },
-            "modifyByName":{
-                "0":"Sullivan Mair"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Sullivan Mair"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24059
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000617) (24059)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2026-05-05T17:56:23.082Z"
-            }
-        }
+        "annotation":null
     },
     "40":{
         "locationCode":"PRAL.W1",
@@ -2506,80 +711,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":15688900
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"trident extra port change (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-20.0
-            },
-            "endDate":{
-                "0":"2025-02-24T22:22:51.892Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "trident extra port change (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.218886
-            },
-            "lon":{
-                "0":-124.811812
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2025-02-24T22:22:51.892Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":23650
-            },
-            "resourceName":{
-                "0":"Nanometrics TitanEA (S\/N 000131) (23650)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2025-02-24T22:22:51.892Z"
-            }
-        }
+        "annotation":null
     },
     "41":{
         "locationCode":"PRAL.W2",
@@ -2598,9 +730,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "42":{
         "locationCode":"PREN",
@@ -2619,9 +749,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "43":{
         "locationCode":"PTAL",
@@ -2640,80 +768,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9927840
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-92.0
-            },
-            "endDate":{
-                "0":"2022-03-11T18:15:11.606Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.25632
-            },
-            "lon":{
-                "0":-124.8611
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T18:15:11.606Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24318
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000845) (24318)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T18:15:11.606Z"
-            }
-        }
+        "annotation":null
     },
     "44":{
         "locationCode":"PTRF",
@@ -2732,80 +787,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9929800
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-185.0
-            },
-            "endDate":{
-                "0":"2022-03-12T01:14:20.700Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.54423
-            },
-            "lon":{
-                "0":-124.41304
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-12T01:14:20.700Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24412
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 000969) (24412)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-12T01:14:20.700Z"
-            }
-        }
+        "annotation":null
     },
     "45":{
         "locationCode":"QISL",
@@ -2824,9 +806,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "46":{
         "locationCode":"QUAD",
@@ -2845,80 +825,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":10456810
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-5.0
-            },
-            "endDate":{
-                "0":"2022-10-03T18:11:21.839Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":50.13247
-            },
-            "lon":{
-                "0":-125.33072
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-10-03T18:11:21.839Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24311
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000836) (24311)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-10-03T18:11:21.839Z"
-            }
-        }
+        "annotation":null
     },
     "47":{
         "locationCode":"SAYW",
@@ -2937,9 +844,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "48":{
         "locationCode":"SHPB",
@@ -2958,80 +863,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":15668400
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"n (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-26.0
-            },
-            "endDate":{
-                "0":"2025-02-06T07:19:09.388Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "n (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.3476
-            },
-            "lon":{
-                "0":-126.25979
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2025-02-06T07:19:09.388Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":33039
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 001117) (33039)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2025-02-06T07:19:09.388Z"
-            }
-        }
+        "annotation":null
     },
     "49":{
         "locationCode":"SNCH",
@@ -3050,9 +882,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "50":{
         "locationCode":"STRA",
@@ -3071,80 +901,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9928390
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-513.0
-            },
-            "endDate":{
-                "0":"2022-03-11T19:31:01.782Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.90003
-            },
-            "lon":{
-                "0":-125.64718
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T19:31:01.782Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24313
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000840) (24313)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T19:31:01.782Z"
-            }
-        }
+        "annotation":null
     },
     "51":{
         "locationCode":"SYMB",
@@ -3163,80 +920,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9928860
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-945.0
-            },
-            "endDate":{
-                "0":"2022-03-11T22:16:42.667Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.55929
-            },
-            "lon":{
-                "0":-123.79893
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T22:16:42.667Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":30539
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 000895) (30539)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T22:16:42.667Z"
-            }
-        }
+        "annotation":null
     },
     "52":{
         "locationCode":"TAHB",
@@ -3255,80 +939,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9928910
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-465.0
-            },
-            "endDate":{
-                "0":"2022-03-11T22:25:37.772Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.8925
-            },
-            "lon":{
-                "0":-126.677
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T22:25:37.772Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":32779
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan (S\/N 001097) (32779)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T22:25:37.772Z"
-            }
-        }
+        "annotation":null
     },
     "53":{
         "locationCode":"TAYR",
@@ -3347,9 +958,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "54":{
         "locationCode":"TELC",
@@ -3368,9 +977,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "55":{
         "locationCode":"UCLU",
@@ -3389,80 +996,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":19211800
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":"SYS-19589 (Start Command)"
-            },
-            "createdBy":{
-                "0":47560
-            },
-            "depth":{
-                "0":-8.0
-            },
-            "endDate":{
-                "0":"2025-12-11T20:19:37.974Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    "SYS-19589 (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":48.92457
-            },
-            "lon":{
-                "0":-125.54198
-            },
-            "modifiedBy":{
-                "0":47560
-            },
-            "modifiedDate":{
-                "0":"2025-12-11T20:19:37.974Z"
-            },
-            "modifyByName":{
-                "0":"Erkan Ersan"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Erkan Ersan"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24070
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000643) (24070)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2025-12-11T20:19:37.974Z"
-            }
-        }
+        "annotation":null
     },
     "56":{
         "locationCode":"VICP",
@@ -3481,80 +1015,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "1":18094100
-            },
-            "annotationSource":{
-                "1":"DMAS"
-            },
-            "annotationSummary":{
-                "1":". (Start Command)"
-            },
-            "createdBy":{
-                "1":22915
-            },
-            "depth":{
-                "1":-1572.0
-            },
-            "flagged":{
-                "1":false
-            },
-            "formFieldIds":{
-                "1":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "1":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "1":50.00632
-            },
-            "lon":{
-                "1":-126.10854
-            },
-            "modifiedBy":{
-                "1":22915
-            },
-            "modifiedDate":{
-                "1":"2025-09-18T22:03:34.788Z"
-            },
-            "modifyByName":{
-                "1":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "1":[
-
-                ]
-            },
-            "ownerName":{
-                "1":"Seann Wagner"
-            },
-            "published":{
-                "1":true
-            },
-            "resourceId":{
-                "1":24312
-            },
-            "resourceName":{
-                "1":"Nanometrics Titan SMA (S\/N 000839) (24312)"
-            },
-            "resourceTypeId":{
-                "1":2
-            },
-            "resourceTypeName":{
-                "1":"Device"
-            },
-            "startDate":{
-                "1":"2025-09-18T22:03:34.788Z"
-            },
-            "endDate":{
-                "1":"2025-09-18T22:03:34.788Z"
-            }
-        }
+        "annotation":null
     },
     "57":{
         "locationCode":"WINH",
@@ -3573,9 +1034,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "58":{
         "locationCode":"WOSB",
@@ -3594,9 +1053,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "59":{
         "locationCode":"YWPT",
@@ -3615,9 +1072,7 @@
             "queryPid":null
         },
         "deviceId":null,
-        "annotation":{
-
-        }
+        "annotation":null
     },
     "60":{
         "locationCode":"ZEBA.W3",
@@ -3635,93 +1090,6 @@
             "landingPageUrl":"https:\/\/doi.org\/10.34943\/8e0cc174-41a2-461b-9447-2d41017c6c47",
             "queryPid":null
         },
-        "deviceId":null,
-        "annotation":{
-            "annotationId":{
-                "0":9928740
-            },
-            "annotationSource":{
-                "0":"DMAS"
-            },
-            "annotationSummary":{
-                "0":". (Start Command)"
-            },
-            "createdBy":{
-                "0":22915
-            },
-            "depth":{
-                "0":-42.0
-            },
-            "endDate":{
-                "0":"2022-03-11T21:47:34.925Z"
-            },
-            "flagged":{
-                "0":false
-            },
-            "formFieldIds":{
-                "0":[
-                    4
-                ]
-            },
-            "formFieldValues":{
-                "0":[
-                    ". (Start Command)"
-                ]
-            },
-            "lat":{
-                "0":49.98961
-            },
-            "lon":{
-                "0":-126.85058
-            },
-            "modifiedBy":{
-                "0":22915
-            },
-            "modifiedDate":{
-                "0":"2022-03-11T21:47:34.925Z"
-            },
-            "modifyByName":{
-                "0":"Seann Wagner"
-            },
-            "orderedFormFieldValues":{
-                "0":[
-
-                ]
-            },
-            "ownerName":{
-                "0":"Seann Wagner"
-            },
-            "published":{
-                "0":true
-            },
-            "resourceId":{
-                "0":24316
-            },
-            "resourceName":{
-                "0":"Nanometrics Titan SMA (S\/N 000843) (24316)"
-            },
-            "resourceTypeId":{
-                "0":2
-            },
-            "resourceTypeName":{
-                "0":"Device"
-            },
-            "startDate":{
-                "0":"2022-03-11T21:47:34.925Z"
-            }
-        }
-    },
-    "61":{
-        "locationCode":null,
-        "deviceCategoryCode":null,
-        "deviceCode":null,
-        "begin":null,
-        "end":null,
-        "lat":49.98961,
-        "lon":-126.85058,
-        "depth":-42.0,
-        "heading":null,
-        "citation":null,
         "deviceId":null,
         "annotation":null
     }

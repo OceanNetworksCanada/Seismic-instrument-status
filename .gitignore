@@ -2,4 +2,6 @@
 QueryDeployments2.ipynb
 create_html.py
 templates/template.html
+.vscode
+.env
 
