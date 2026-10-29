@@ -1,5 +1,197 @@
 {
     "0":{
+        "locationCode":"AL2H",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000619",
+        "begin":"2017-05-25T00:00:00.000Z",
+        "end":null,
+        "lat":48.38981,
+        "lon":-123.48739,
+        "depth":-29.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2017. Albert Head Accelerometer Deployed 2017-05-25. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/942c24f1-20d5-4165-ad1d-16aa8c3741d9.",
+            "doi":"10.34943\/942c24f1-20d5-4165-ad1d-16aa8c3741d9",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/942c24f1-20d5-4165-ad1d-16aa8c3741d9",
+            "queryPid":null
+        },
+        "deviceId":24061,
+        "annotation":{
+            "annotationId":3813920,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":26579,
+            "depth":-20.0,
+            "endDate":"2017-05-19T18:38:39.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":26579,
+            "modifiedDate":"2017-05-19T18:38:39.000Z",
+            "modifyByName":"production developer",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"production developer",
+            "published":true,
+            "resourceId":24061,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000619) (24061)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2017-05-19T18:38:39.000Z"
+        }
+    },
+    "1":{
+        "locationCode":"BACME.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000646",
+        "begin":"2024-06-13T02:53:07.000Z",
+        "end":null,
+        "lat":48.314627,
+        "lon":-126.058106,
+        "depth":897.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2024. Barkley Canyon Mid-East Accelerometer Deployed 2024-06-13. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/e234bf4e-93f1-41ea-8930-97dd1e65badd.",
+            "doi":"10.34943\/e234bf4e-93f1-41ea-8930-97dd1e65badd",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/e234bf4e-93f1-41ea-8930-97dd1e65badd",
+            "queryPid":null
+        },
+        "deviceId":24074,
+        "annotation":{
+            "annotationId":4981420,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":19424,
+            "depth":392.0,
+            "endDate":"2018-07-01T00:29:46.784Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 34"
+            ],
+            "lat":48.42656667,
+            "lon":-126.17456,
+            "modifiedBy":19424,
+            "modifiedDate":"2018-07-01T00:29:46.784Z",
+            "modifyByName":"John Dorocicz",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"John Dorocicz",
+            "published":true,
+            "resourceId":24074,
+            "resourceName":"Nanometrics TitanEA (S\/N 000646) (24074)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-07-01T00:29:46.784Z"
+        }
+    },
+    "2":{
+        "locationCode":"BACND.Z1",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRTILTMETERACCBPR63056",
+        "begin":"2021-02-10T18:03:00.000Z",
+        "end":null,
+        "lat":48.345482,
+        "lon":-126.157439,
+        "depth":644.0,
+        "heading":350.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2021. Barkley Canyon Tiltmeter Deployed 2021-02-10. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/867df636-4c65-478b-8103-97afdbada39e.",
+            "doi":"10.34943\/867df636-4c65-478b-8103-97afdbada39e",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/867df636-4c65-478b-8103-97afdbada39e",
+            "queryPid":null
+        },
+        "deviceId":24154,
+        "annotation":{
+            "annotationId":4881280,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2018-05-16T20:15:58.620Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2018-05-16T20:15:58.620Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":24154,
+            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63056 (24154)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-05-16T20:15:58.620Z"
+        }
+    },
+    "3":{
+        "locationCode":"BAMF",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000637",
+        "begin":"2017-07-07T01:00:00.000Z",
+        "end":null,
+        "lat":48.83533,
+        "lon":-125.13514,
+        "depth":-9.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2017. Bamfield Accelerometer Deployed 2017-07-07. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/8a6cee22-459e-483b-8b70-a9346a6be576.",
+            "doi":"10.34943\/8a6cee22-459e-483b-8b70-a9346a6be576",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/8a6cee22-459e-483b-8b70-a9346a6be576",
+            "queryPid":null
+        },
+        "deviceId":24064,
+        "annotation":{
+            "annotationId":3822790,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2017-05-24T16:34:34.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2017-05-24T16:34:34.000Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":24064,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000637) (24064)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2017-05-24T16:34:34.000Z"
+        }
+    },
+    "4":{
         "locationCode":"CBC27",
         "deviceCategoryCode":"BBS",
         "deviceCode":"MARISSEISMOMETERTR1371",
@@ -12,37 +204,321 @@
         "citation":null,
         "deviceId":74380,
         "annotation":{
-            "annotationId":11486220,
+            "annotationId":11325440,
             "annotationSource":"DMAS",
-            "annotationSummary":". (Stop Command)",
-            "createdBy":22915,
-            "depth":2196.0,
-            "endDate":"2023-09-08T18:15:44.899Z",
+            "annotationSummary":"Commissioning | Endeavor Main Field String replacement Sensor1  - DATA-6280",
+            "createdBy":48400,
+            "depth":2190.0,
+            "endDate":"2024-02-14T00:00:00.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                5,
+                6
+            ],
+            "formFieldValues":[
+                "Commissioning",
+                "Endeavor Main Field String replacement Sensor1  - DATA-6280"
+            ],
+            "lat":47.9495599,
+            "lon":-129.0986907,
+            "modifiedBy":48400,
+            "modifiedDate":"2024-02-14T22:55:57.352Z",
+            "modifyByName":"Angela Schlesinger",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Angela Schlesinger",
+            "published":true,
+            "resourceId":74380,
+            "resourceName":"Maris Seismometer TR1371 (74380)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2023-07-08T19:36:32.352Z"
+        }
+    },
+    "5":{
+        "locationCode":"CBC27.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000788",
+        "begin":"2018-07-23T11:12:39.000Z",
+        "end":null,
+        "lat":47.756685,
+        "lon":-127.731932,
+        "depth":2661.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. ODP 1027C Accelerometer Deployed 2018-07-23. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/6017cbf2-b845-4fc2-9db6-935971756717.",
+            "doi":"10.34943\/6017cbf2-b845-4fc2-9db6-935971756717",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/6017cbf2-b845-4fc2-9db6-935971756717",
+            "queryPid":null
+        },
+        "deviceId":24433,
+        "annotation":{
+            "annotationId":4965840,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":19424,
+            "depth":2656.0,
+            "endDate":"2018-06-24T14:05:08.724Z",
             "flagged":false,
             "formFieldIds":[
                 4
             ],
             "formFieldValues":[
-                ". (Stop Command)"
+                "Set JVM Id to 34"
             ],
-            "lat":47.94906536,
-            "lon":-129.09876832,
+            "lat":47.756762,
+            "lon":-127.73193,
+            "modifiedBy":19424,
+            "modifiedDate":"2018-06-24T14:05:08.724Z",
+            "modifyByName":"John Dorocicz",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"John Dorocicz",
+            "published":true,
+            "resourceId":24433,
+            "resourceName":"Nanometrics TitanEA (S\/N 000788) (24433)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-06-24T14:05:08.724Z"
+        }
+    },
+    "6":{
+        "locationCode":"CBC27.Z1",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRTILTMETERACCBPR63057",
+        "begin":"2018-06-24T08:34:57.000Z",
+        "end":null,
+        "lat":47.756717,
+        "lon":-127.731602,
+        "depth":2656.0,
+        "heading":310.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. ODP 1027C Tiltmeter Deployed 2018-06-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/dc32dec0-fdb6-4c76-9fa4-03d65f63f54b.",
+            "doi":"10.34943\/dc32dec0-fdb6-4c76-9fa4-03d65f63f54b",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/dc32dec0-fdb6-4c76-9fa4-03d65f63f54b",
+            "queryPid":null
+        },
+        "deviceId":24155,
+        "annotation":{
+            "annotationId":5195290,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":2726,
+            "depth":2656.0,
+            "endDate":"2018-09-25T21:31:24.931Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 34"
+            ],
+            "lat":47.756717,
+            "lon":-127.731602,
+            "modifiedBy":2726,
+            "modifiedDate":"2018-09-25T21:31:24.931Z",
+            "modifyByName":"Reyna Jenkyns",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Reyna Jenkyns",
+            "published":true,
+            "resourceId":24155,
+            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63057 (24155)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-09-25T21:31:24.931Z"
+        }
+    },
+    "7":{
+        "locationCode":"CDFE",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRQUARTZ3APT207597",
+        "begin":"2022-08-05T06:10:45.000Z",
+        "end":null,
+        "lat":48.618407,
+        "lon":-127.03806,
+        "depth":1748.0,
+        "heading":0.0,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
+    },
+    "8":{
+        "locationCode":"CDFM",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRQUARTZ3APT207598",
+        "begin":"2021-08-08T09:34:32.000Z",
+        "end":null,
+        "lat":48.599443,
+        "lon":-127.079427,
+        "depth":2504.0,
+        "heading":108.0,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
+    },
+    "9":{
+        "locationCode":"CDFW",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRQUARTZ3APT207599",
+        "begin":"2021-08-09T04:13:13.000Z",
+        "end":null,
+        "lat":48.570747,
+        "lon":-127.137591,
+        "depth":2559.0,
+        "heading":0.0,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
+    },
+    "10":{
+        "locationCode":"CLRS",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN000943",
+        "begin":"2016-09-07T00:00:00.000Z",
+        "end":null,
+        "lat":48.82032,
+        "lon":-124.1309,
+        "depth":-174.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Lake Cowichan Accelerometer Deployed 2016-09-07. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/3521dadb-ff5f-432a-8a58-23869e87db0d.",
+            "doi":"10.34943\/3521dadb-ff5f-432a-8a58-23869e87db0d",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/3521dadb-ff5f-432a-8a58-23869e87db0d",
+            "queryPid":null
+        },
+        "deviceId":24411,
+        "annotation":{
+            "annotationId":4719660,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 41",
+            "createdBy":22915,
+            "depth":-174.0,
+            "endDate":"2018-03-24T05:07:14.106Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 41"
+            ],
+            "lat":48.82032,
+            "lon":-124.1309,
             "modifiedBy":22915,
-            "modifiedDate":"2023-09-08T18:15:44.899Z",
+            "modifiedDate":"2018-03-24T05:07:14.106Z",
             "modifyByName":"Seann Wagner",
             "orderedFormFieldValues":[
 
             ],
             "ownerName":"Seann Wagner",
             "published":true,
-            "resourceId":10514,
-            "resourceName":"OceanWorks Junction Box JB-12 (10514)",
+            "resourceId":24411,
+            "resourceName":"Nanometrics Titan (S\/N 000943) (24411)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2023-09-08T18:15:44.899Z"
+            "startDate":"2018-03-24T05:07:14.106Z"
         }
     },
-    "1":{
+    "11":{
+        "locationCode":"CMBR",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000636",
+        "begin":"2019-07-24T00:00:00.000Z",
+        "end":null,
+        "lat":49.59497,
+        "lon":-125.01135,
+        "depth":-328.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2019. Cumberland Accelerometer Deployed 2019-07-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/709be161-9c4f-42a3-85ab-1540d637f9a8.",
+            "doi":"10.34943\/709be161-9c4f-42a3-85ab-1540d637f9a8",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/709be161-9c4f-42a3-85ab-1540d637f9a8",
+            "queryPid":null
+        },
+        "deviceId":24063,
+        "annotation":{
+            "annotationId":4719780,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 46",
+            "createdBy":22915,
+            "depth":-20.0,
+            "endDate":"2018-03-24T05:29:49.908Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 46"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-03-24T05:29:49.908Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24063,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000636) (24063)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-03-24T05:29:49.908Z"
+        }
+    },
+    "12":{
+        "locationCode":"CQS64.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000787",
+        "begin":"2018-07-30T07:14:55.000Z",
+        "end":null,
+        "lat":48.699718,
+        "lon":-126.872618,
+        "depth":1318.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. ODP 1364A Accelerometer Deployed 2018-07-30. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/075d6e77-49ca-4960-bae9-642c8d284f57.",
+            "doi":"10.34943\/075d6e77-49ca-4960-bae9-642c8d284f57",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/075d6e77-49ca-4960-bae9-642c8d284f57",
+            "queryPid":null
+        },
+        "deviceId":24432,
+        "annotation":{
+            "annotationId":5039830,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":2580,
+            "depth":-20.0,
+            "endDate":"2018-07-29T21:32:09.469Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 34"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2580,
+            "modifiedDate":"2018-07-29T21:32:09.469Z",
+            "modifyByName":"Martin Hofmann",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Martin Hofmann",
+            "published":true,
+            "resourceId":24432,
+            "resourceName":"Nanometrics TitanEA (S\/N 000787) (24432)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-07-29T21:32:09.469Z"
+        }
+    },
+    "13":{
         "locationCode":"ENEF",
         "deviceCategoryCode":"BBS",
         "deviceCode":"MARISSEISMOMETERTR1302",
@@ -55,39 +531,39 @@
         "citation":null,
         "deviceId":39380,
         "annotation":{
-            "annotationId":6778800,
+            "annotationId":8270710,
             "annotationSource":"DMAS",
-            "annotationSummary":"Data Gap | of varying lengths on all connected instruments due to Port Alberni Power Outage (OPE-564)",
-            "createdBy":15223,
-            "depth":-24.0,
-            "endDate":"2020-07-21T22:20:00.000Z",
+            "annotationSummary":"Commissioning | DATA-5097 for ENEF",
+            "createdBy":48400,
+            "depth":2323.0,
+            "endDate":"2021-11-17T00:00:00.000Z",
             "flagged":false,
             "formFieldIds":[
                 5,
                 6
             ],
             "formFieldValues":[
-                "Data Gap",
-                "of varying lengths on all connected instruments due to Port Alberni Power Outage (OPE-564)"
+                "Commissioning",
+                "DATA-5097 for ENEF"
             ],
-            "lat":49.218886,
-            "lon":-124.811812,
-            "modifiedBy":15223,
-            "modifiedDate":"2020-07-22T04:04:04.448Z",
-            "modifyByName":"Dilumie Abeysirigunawardena",
+            "lat":47.95841094,
+            "lon":-129.03548385,
+            "modifiedBy":48400,
+            "modifiedDate":"2021-11-17T22:19:08.661Z",
+            "modifyByName":"Angela Schlesinger",
             "orderedFormFieldValues":[
 
             ],
-            "ownerName":"Dilumie Abeysirigunawardena",
+            "ownerName":"Angela Schlesinger",
             "published":true,
-            "resourceId":10000,
-            "resourceName":"Neptune Root Node (10000)",
-            "resourceTypeId":1000,
-            "resourceTypeName":"Device Data",
-            "startDate":"2020-07-21T04:27:00.000Z"
+            "resourceId":39380,
+            "resourceName":"Maris Seismometer TR1302 (0516) (39380)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-09-01T00:00:00.000Z"
         }
     },
-    "2":{
+    "14":{
         "locationCode":"ENWF",
         "deviceCategoryCode":"BBS",
         "deviceCode":"NANOMETRICSOBST360015378",
@@ -130,7 +606,199 @@
             "startDate":"2026-08-27T18:59:01.658Z"
         }
     },
-    "3":{
+    "15":{
+        "locationCode":"ERMD",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000834",
+        "begin":"2018-10-09T17:45:00.000Z",
+        "end":null,
+        "lat":49.19781,
+        "lon":-123.11988,
+        "depth":-5.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. East Richmond Accelerometer Deployed 2018-10-09. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/aa70d93d-629e-47c9-bb7a-a8a4339e3641.",
+            "doi":"10.34943\/aa70d93d-629e-47c9-bb7a-a8a4339e3641",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/aa70d93d-629e-47c9-bb7a-a8a4339e3641",
+            "queryPid":null
+        },
+        "deviceId":24310,
+        "annotation":{
+            "annotationId":5241340,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 27",
+            "createdBy":22915,
+            "depth":-5.0,
+            "endDate":"2018-10-09T22:50:54.149Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 27"
+            ],
+            "lat":49.19781,
+            "lon":-123.11988,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-10-09T22:50:54.149Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24310,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000834) (24310)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-10-09T22:50:54.149Z"
+        }
+    },
+    "16":{
+        "locationCode":"GLRI",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001571",
+        "begin":"2022-03-23T00:00:00.000Z",
+        "end":null,
+        "lat":49.778594,
+        "lon":-126.047062,
+        "depth":-120.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Gold River Accelerometer Deployed 2022-03-23. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/f6c90714-c16b-42d2-8e4a-51c457d58826.",
+            "doi":"10.34943\/f6c90714-c16b-42d2-8e4a-51c457d58826",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/f6c90714-c16b-42d2-8e4a-51c457d58826",
+            "queryPid":null
+        },
+        "deviceId":66940,
+        "annotation":{
+            "annotationId":9831140,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2022-01-10T17:57:23.359Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2022-01-10T17:57:23.359Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66940,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001571) (66940)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-01-10T17:57:23.359Z"
+        }
+    },
+    "17":{
+        "locationCode":"JRDR",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001702",
+        "begin":"2023-01-11T00:00:00.000Z",
+        "end":null,
+        "lat":48.420143,
+        "lon":-124.045709,
+        "depth":-5.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2023. Jordan River Accelerometer Deployed 2023-01-11. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/6440dfe5-d78b-4408-b1b7-a857444afaf3.",
+            "doi":"10.34943\/6440dfe5-d78b-4408-b1b7-a857444afaf3",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/6440dfe5-d78b-4408-b1b7-a857444afaf3",
+            "queryPid":null
+        },
+        "deviceId":68500,
+        "annotation":{
+            "annotationId":10656550,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 55",
+            "createdBy":22915,
+            "depth":-5.0,
+            "endDate":"2023-01-12T18:13:27.628Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 55"
+            ],
+            "lat":48.420143,
+            "lon":-124.045709,
+            "modifiedBy":22915,
+            "modifiedDate":"2023-01-12T18:13:27.628Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":68500,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001702) (68500)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2023-01-12T18:13:27.628Z"
+        }
+    },
+    "18":{
+        "locationCode":"KEMF",
+        "deviceCategoryCode":"SPS",
+        "deviceCode":"GEOSENSESEISMO116",
+        "begin":"2014-05-19T02:49:51.000Z",
+        "end":null,
+        "lat":47.948572,
+        "lon":-129.098661,
+        "depth":2195.0,
+        "heading":220.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Main Endeavour Field Short Period Seismometer Deployed 2014-05-19. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/2ed6df77-3558-4adc-8ddd-0a84210acde8.",
+            "doi":"10.34943\/2ed6df77-3558-4adc-8ddd-0a84210acde8",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/2ed6df77-3558-4adc-8ddd-0a84210acde8",
+            "queryPid":null
+        },
+        "deviceId":11157,
+        "annotation":{
+            "annotationId":139730,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2427,
+            "depth":-20.0,
+            "endDate":"2013-06-01T22:51:40.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2427,
+            "modifiedDate":"2013-06-01T22:51:40.000Z",
+            "modifyByName":"Daisy Contributor",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Daisy Contributor",
+            "published":true,
+            "resourceId":11157,
+            "resourceName":"Geosense Short Period Seismometer 116 (11157)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2013-06-01T22:51:40.000Z"
+        }
+    },
+    "19":{
         "locationCode":"KEMO",
         "deviceCategoryCode":"BBS",
         "deviceCode":"GURALPORCUSBBST310920",
@@ -175,7 +843,153 @@
             "startDate":"2023-07-19T20:26:35.135Z"
         }
     },
-    "4":{
+    "20":{
+        "locationCode":"KYUQ",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001567",
+        "begin":"2022-06-02T02:47:00.000Z",
+        "end":null,
+        "lat":50.03308,
+        "lon":-127.373667,
+        "depth":-9.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Kyuquot Accelerometer Deployed 2022-06-02. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/d9f0b685-087f-4e5f-858b-e2ac33425a62.",
+            "doi":"10.34943\/d9f0b685-087f-4e5f-858b-e2ac33425a62",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/d9f0b685-087f-4e5f-858b-e2ac33425a62",
+            "queryPid":null
+        },
+        "deviceId":66820,
+        "annotation":{
+            "annotationId":9908860,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 117",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2022-02-28T21:31:23.038Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 117"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2022-02-28T21:31:23.038Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66820,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001567) (66820)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-02-28T21:31:23.038Z"
+        }
+    },
+    "21":{
+        "locationCode":"MGRB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN001110",
+        "begin":"2017-10-24T00:00:00.000Z",
+        "end":null,
+        "lat":48.99973,
+        "lon":-124.69705,
+        "depth":-1310.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Mount Grey Accelerometer Deployed 2017-10-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/070788f7-a12f-426f-8ad8-56c5db23f100.",
+            "doi":"10.34943\/070788f7-a12f-426f-8ad8-56c5db23f100",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/070788f7-a12f-426f-8ad8-56c5db23f100",
+            "queryPid":null
+        },
+        "deviceId":29599,
+        "annotation":{
+            "annotationId":5453190,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 49",
+            "createdBy":22915,
+            "depth":-1310.0,
+            "endDate":"2018-12-11T19:02:09.366Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 49"
+            ],
+            "lat":48.99973,
+            "lon":-124.69705,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-12-11T19:02:09.366Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":29599,
+            "resourceName":"Nanometrics Titan (S\/N 001110) (29599)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-12-11T19:02:09.366Z"
+        }
+    },
+    "22":{
+        "locationCode":"NANA",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000819",
+        "begin":"2024-12-18T20:27:00.000Z",
+        "end":null,
+        "lat":49.237216,
+        "lon":-124.063018,
+        "depth":-105.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2024. Nanaimo Accelerometer Deployed 2024-12-18. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d.",
+            "doi":"10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/801b133a-1147-44cc-a416-7f0c5cca819d",
+            "queryPid":null
+        },
+        "deviceId":24309,
+        "annotation":{
+            "annotationId":15689200,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Commissioning | DATA-7138 (Aspen Grove)",
+            "createdBy":48400,
+            "depth":-20.0,
+            "endDate":null,
+            "flagged":false,
+            "formFieldIds":[
+                5,
+                6
+            ],
+            "formFieldValues":[
+                "Commissioning",
+                "DATA-7138 (Aspen Grove)"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":48400,
+            "modifiedDate":"2025-02-25T00:49:45.733Z",
+            "modifyByName":"Angela Schlesinger",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Angela Schlesinger",
+            "published":true,
+            "resourceId":24309,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000819) (24309)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2024-12-18T00:00:05.952Z"
+        }
+    },
+    "23":{
         "locationCode":"NC27",
         "deviceCategoryCode":"BBS",
         "deviceCode":"GURALPORCUSBBST311164",
@@ -193,7 +1007,6 @@
             "annotationSummary":"Data Quality | Lots of gaps and noise on all three hig-rate velocity channels. Instrument cannot be reset as connections to JB ar weak (INSTR-2397) | high",
             "createdBy":48400,
             "depth":2656.0,
-            "endDate":null,
             "flagged":false,
             "formFieldIds":[
                 5,
@@ -219,10 +1032,11 @@
             "resourceName":"Guralp Orcus Broadband Seismometer SN T311164 (80732)",
             "resourceTypeId":2,
             "resourceTypeName":"Device",
-            "startDate":"2023-12-14T14:00:00.000Z"
+            "startDate":"2023-12-14T14:00:00.000Z",
+            "endDate":null
         }
     },
-    "5":{
+    "24":{
         "locationCode":"NC89",
         "deviceCategoryCode":"BBS",
         "deviceCode":"GURALPBBSEISMO2217",
@@ -240,39 +1054,133 @@
         },
         "deviceId":22057,
         "annotation":{
-            "annotationId":106216,
+            "annotationId":178599,
             "annotationSource":"DMAS",
-            "annotationSummary":"Data Gap | In all Instruments connected to the Network due to Node Shutdown for repair",
-            "createdBy":15223,
-            "depth":-24.0,
-            "endDate":"2010-05-18T18:45:00.000Z",
+            "annotationSummary":"Set JVM Id to 1",
+            "createdBy":22915,
+            "depth":1256.0,
+            "endDate":"2014-09-17T18:49:35.000Z",
             "flagged":false,
             "formFieldIds":[
-                5,
-                6
+                4
             ],
             "formFieldValues":[
-                "Data Gap",
-                "In all Instruments connected to the Network due to Node Shutdown for repair"
+                "Set JVM Id to 1"
             ],
-            "lat":49.218886,
-            "lon":-124.811812,
-            "modifiedBy":15223,
-            "modifiedDate":"2013-01-17T00:18:01.000Z",
-            "modifyByName":"Dilumie Abeysirigunawardena",
+            "lat":48.6705366667,
+            "lon":-126.8487666667,
+            "modifiedBy":22915,
+            "modifiedDate":"2014-09-17T18:49:35.000Z",
+            "modifyByName":"Seann Wagner",
             "orderedFormFieldValues":[
 
             ],
-            "ownerName":"Dilumie Abeysirigunawardena",
+            "ownerName":"Seann Wagner",
             "published":true,
-            "resourceId":10000,
-            "resourceName":"Neptune Root Node (10000)",
-            "resourceTypeId":1000,
-            "resourceTypeName":"Device Data",
-            "startDate":"2010-05-10T21:00:00.000Z"
+            "resourceId":22057,
+            "resourceName":"Guralp CMG-IT Broadband Seismometer 2217 (22057)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2014-09-17T18:49:35.000Z"
         }
     },
-    "6":{
+    "25":{
+        "locationCode":"NC89.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000647",
+        "begin":"2017-06-08T19:17:35.000Z",
+        "end":null,
+        "lat":48.670473,
+        "lon":-126.847701,
+        "depth":1259.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2017. Bullseye Accelerometer Deployed 2017-06-08. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/6819b2da-6deb-4ce7-8e0f-f01410269262.",
+            "doi":"10.34943\/6819b2da-6deb-4ce7-8e0f-f01410269262",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/6819b2da-6deb-4ce7-8e0f-f01410269262",
+            "queryPid":null
+        },
+        "deviceId":24075,
+        "annotation":{
+            "annotationId":3867020,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":19424,
+            "depth":1259.0,
+            "endDate":"2017-06-19T20:58:31.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 34"
+            ],
+            "lat":48.67047314,
+            "lon":-126.84770139,
+            "modifiedBy":19424,
+            "modifiedDate":"2017-06-19T20:58:31.000Z",
+            "modifyByName":"John Dorocicz",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"John Dorocicz",
+            "published":true,
+            "resourceId":24075,
+            "resourceName":"Nanometrics TitanEA (S\/N 000647) (24075)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2017-06-19T20:58:31.000Z"
+        }
+    },
+    "26":{
+        "locationCode":"NC89.Z1",
+        "deviceCategoryCode":"TILTMTR",
+        "deviceCode":"RBRTILTMETERACCBPR63055",
+        "begin":"2017-06-14T11:27:53.000Z",
+        "end":null,
+        "lat":48.67087,
+        "lon":-126.848141,
+        "depth":1259.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Bullseye Tiltmeter Deployed 2017-06-14. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/cd15a442-56bc-49d0-9ad8-c4e04ff0053e.",
+            "doi":"10.34943\/cd15a442-56bc-49d0-9ad8-c4e04ff0053e",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/cd15a442-56bc-49d0-9ad8-c4e04ff0053e",
+            "queryPid":null
+        },
+        "deviceId":24150,
+        "annotation":{
+            "annotationId":4980400,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 34",
+            "createdBy":43665,
+            "depth":1259.0,
+            "endDate":"2018-06-30T14:40:58.370Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 34"
+            ],
+            "lat":48.67086956,
+            "lon":-126.84814131,
+            "modifiedBy":43665,
+            "modifiedDate":"2018-06-30T14:40:58.370Z",
+            "modifyByName":"Casey Robb",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Casey Robb",
+            "published":true,
+            "resourceId":24150,
+            "resourceName":"RBRconcerto Tilt Meter ACC.BPR 63055 (24150)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-06-30T14:40:58.370Z"
+        }
+    },
+    "27":{
         "locationCode":"NCBC",
         "deviceCategoryCode":"BBS",
         "deviceCode":"GURALPBBSEISMO2218",
@@ -290,12 +1198,12 @@
         },
         "deviceId":13117,
         "annotation":{
-            "annotationId":106216,
+            "annotationId":20478300,
             "annotationSource":"DMAS",
-            "annotationSummary":"Data Gap | In all Instruments connected to the Network due to Node Shutdown for repair",
-            "createdBy":15223,
-            "depth":-24.0,
-            "endDate":"2010-05-18T18:45:00.000Z",
+            "annotationSummary":"Data Gap | DDS work on the seismic instruments - data gaps due to shutdowns",
+            "createdBy":48400,
+            "depth":396.0,
+            "endDate":"2026-10-19T17:15:00.000Z",
             "flagged":false,
             "formFieldIds":[
                 5,
@@ -303,26 +1211,220 @@
             ],
             "formFieldValues":[
                 "Data Gap",
-                "In all Instruments connected to the Network due to Node Shutdown for repair"
+                "DDS work on the seismic instruments - data gaps due to shutdowns"
             ],
-            "lat":49.218886,
-            "lon":-124.811812,
-            "modifiedBy":15223,
-            "modifiedDate":"2013-01-17T00:18:01.000Z",
-            "modifyByName":"Dilumie Abeysirigunawardena",
+            "lat":48.4275333333,
+            "lon":-126.1751816667,
+            "modifiedBy":48400,
+            "modifiedDate":"2026-10-19T22:03:46.270Z",
+            "modifyByName":"Angela Schlesinger",
             "orderedFormFieldValues":[
 
             ],
-            "ownerName":"Dilumie Abeysirigunawardena",
+            "ownerName":"Angela Schlesinger",
             "published":true,
-            "resourceId":10000,
-            "resourceName":"Neptune Root Node (10000)",
-            "resourceTypeId":1000,
-            "resourceTypeName":"Device Data",
-            "startDate":"2010-05-10T21:00:00.000Z"
+            "resourceId":13117,
+            "resourceName":"Guralp CMG-IT Broadband Seismometer 2218 (13117)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2026-10-19T17:04:00.247Z"
         }
     },
-    "7":{
+    "28":{
+        "locationCode":"NCBC.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000145",
+        "begin":"2022-08-06T00:19:00.000Z",
+        "end":null,
+        "lat":48.426575,
+        "lon":-126.174652,
+        "depth":394.0,
+        "heading":356.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Upper Slope South Accelerometer Deployed 2022-08-06. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/7d387b5f-c90a-423c-92dc-6ba82b0bfa18.",
+            "doi":"10.34943\/7d387b5f-c90a-423c-92dc-6ba82b0bfa18",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/7d387b5f-c90a-423c-92dc-6ba82b0bfa18",
+            "queryPid":null
+        },
+        "deviceId":23454,
+        "annotation":{
+            "annotationId":10354430,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Commissioning | DATA-5704",
+            "createdBy":110440,
+            "depth":394.0,
+            "endDate":null,
+            "flagged":false,
+            "formFieldIds":[
+                5,
+                6
+            ],
+            "formFieldValues":[
+                "Commissioning",
+                "DATA-5704"
+            ],
+            "lat":48.42657478,
+            "lon":-126.17465246,
+            "modifiedBy":110440,
+            "modifiedDate":"2022-08-17T02:45:37.147Z",
+            "modifyByName":"Alireza Babaeimahani",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Alireza Babaeimahani",
+            "published":true,
+            "resourceId":23454,
+            "resourceName":"Nanometrics TitanEA (S\/N 000145) (23454)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-08-17T02:44:38.023Z"
+        }
+    },
+    "29":{
+        "locationCode":"NCHR",
+        "deviceCategoryCode":"SPS",
+        "deviceCode":"GEOSENSESEISMO117",
+        "begin":"2016-06-19T23:42:16.000Z",
+        "end":null,
+        "lat":47.973638,
+        "lon":-129.081918,
+        "depth":2158.0,
+        "heading":291.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2020. Endeavour North Short Period Seismometer Deployed 2016-06-19. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/c77992ac-606c-4c71-9658-39cb81a13292.",
+            "doi":"10.34943\/c77992ac-606c-4c71-9658-39cb81a13292",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/c77992ac-606c-4c71-9658-39cb81a13292",
+            "queryPid":null
+        },
+        "deviceId":16001,
+        "annotation":{
+            "annotationId":19662700,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 19",
+            "createdBy":88490,
+            "depth":2158.0,
+            "endDate":"2026-04-18T01:14:53.262Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 19"
+            ],
+            "lat":47.9736383,
+            "lon":-129.08191812,
+            "modifiedBy":88490,
+            "modifiedDate":"2026-04-18T01:14:53.262Z",
+            "modifyByName":"Richard Burdick",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Richard Burdick",
+            "published":true,
+            "resourceId":16001,
+            "resourceName":"Geosense Short Period Seismometer 117 (16001)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2026-04-18T01:14:53.262Z"
+        }
+    },
+    "30":{
+        "locationCode":"NCSB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN001113",
+        "begin":"2018-07-16T00:00:00.000Z",
+        "end":null,
+        "lat":50.40301,
+        "lon":-126.0559,
+        "depth":-1296.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Newcastle Ridge Accelerometer Deployed 2018-07-16. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/14618fa7-84e0-4f54-9ea0-5302d761ec6f.",
+            "doi":"10.34943\/14618fa7-84e0-4f54-9ea0-5302d761ec6f",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/14618fa7-84e0-4f54-9ea0-5302d761ec6f",
+            "queryPid":null
+        },
+        "deviceId":29659,
+        "annotation":{
+            "annotationId":5370410,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 63",
+            "createdBy":22915,
+            "depth":-1296.0,
+            "endDate":"2018-12-10T22:30:46.562Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 63"
+            ],
+            "lat":50.40301,
+            "lon":-126.0559,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-12-10T22:30:46.562Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":29659,
+            "resourceName":"Nanometrics Titan (S\/N 1113) (29659)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-12-10T22:30:46.562Z"
+        }
+    },
+    "31":{
+        "locationCode":"NITI",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001682",
+        "begin":"2022-11-01T21:30:00.000Z",
+        "end":null,
+        "lat":48.860686,
+        "lon":-124.655785,
+        "depth":-15.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Nitinaht Accelerometer Deployed 2022-11-01. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/3aa40bfe-6737-4ef0-bf9b-dc4e0704bd96.",
+            "doi":"10.34943\/3aa40bfe-6737-4ef0-bf9b-dc4e0704bd96",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/3aa40bfe-6737-4ef0-bf9b-dc4e0704bd96",
+            "queryPid":null
+        },
+        "deviceId":68440,
+        "annotation":{
+            "annotationId":10164780,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 117",
+            "createdBy":85260,
+            "depth":-20.0,
+            "endDate":"2022-07-11T22:27:42.341Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 117"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":85260,
+            "modifiedDate":"2022-07-11T22:27:42.341Z",
+            "modifyByName":"Yingsong_Admin Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong_Admin Zheng",
+            "published":true,
+            "resourceId":68440,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001682) (68440)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-07-11T22:27:42.341Z"
+        }
+    },
+    "32":{
         "locationCode":"NSMTC.B1",
         "deviceCategoryCode":"BBS",
         "deviceCode":"SILICONAUDIOULN0536",
@@ -336,7 +1438,7 @@
         "deviceId":null,
         "annotation":null
     },
-    "8":{
+    "33":{
         "locationCode":"NSMTC.B2",
         "deviceCategoryCode":"BBS",
         "deviceCode":"SILICONAUDIOULN0537",
@@ -350,7 +1452,7 @@
         "deviceId":null,
         "annotation":null
     },
-    "9":{
+    "34":{
         "locationCode":"NSMTC.B3",
         "deviceCategoryCode":"BBS",
         "deviceCode":"SILICONAUDIOULN0539",
@@ -363,5 +1465,1193 @@
         "citation":null,
         "deviceId":null,
         "annotation":null
+    },
+    "35":{
+        "locationCode":"NSMTC.G1",
+        "deviceCategoryCode":"SPS",
+        "deviceCode":"GEOSPACEHS13C_238328",
+        "begin":"2017-08-18T00:00:00.000Z",
+        "end":null,
+        "lat":48.648681,
+        "lon":-123.446181,
+        "depth":-8.0,
+        "heading":null,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
+    },
+    "36":{
+        "locationCode":"NSMTC.G2",
+        "deviceCategoryCode":"SPS",
+        "deviceCode":"LBNLGEOPHONE3C01",
+        "begin":"2017-08-18T00:00:00.000Z",
+        "end":null,
+        "lat":48.648681,
+        "lon":-123.446181,
+        "depth":308.0,
+        "heading":null,
+        "citation":null,
+        "deviceId":null,
+        "annotation":null
+    },
+    "37":{
+        "locationCode":"PALI",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000353M",
+        "begin":"2018-12-06T00:00:00.000Z",
+        "end":null,
+        "lat":50.42978,
+        "lon":-127.4881,
+        "depth":-21.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Port Alice Accelerometer Deployed 2018-12-06. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/dda2b2fc-9fcd-47f1-b969-8529bf9de0c4.",
+            "doi":"10.34943\/dda2b2fc-9fcd-47f1-b969-8529bf9de0c4",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/dda2b2fc-9fcd-47f1-b969-8529bf9de0c4",
+            "queryPid":null
+        },
+        "deviceId":24324,
+        "annotation":{
+            "annotationId":5356610,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":26579,
+            "depth":-20.0,
+            "endDate":"2018-12-03T19:13:50.508Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":26579,
+            "modifiedDate":"2018-12-03T19:13:50.508Z",
+            "modifyByName":"production developer",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"production developer",
+            "published":true,
+            "resourceId":24324,
+            "resourceName":"Nanometrics Titan SMA (S\/N 00353) (24324)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-12-03T19:13:50.508Z"
+        }
+    },
+    "38":{
+        "locationCode":"PGC5",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000640",
+        "begin":"2019-02-05T00:00:00.000Z",
+        "end":null,
+        "lat":48.64983,
+        "lon":-123.45206,
+        "depth":-15.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2019. Patricia Bay Accelerometer Deployed 2019-02-05. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/ae35a37d-0928-4363-bfb3-990e4deaf61e.",
+            "doi":"10.34943\/ae35a37d-0928-4363-bfb3-990e4deaf61e",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/ae35a37d-0928-4363-bfb3-990e4deaf61e",
+            "queryPid":null
+        },
+        "deviceId":24067,
+        "annotation":{
+            "annotationId":4719680,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 45",
+            "createdBy":22915,
+            "depth":-20.0,
+            "endDate":"2018-03-24T05:07:34.789Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 45"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-03-24T05:07:34.789Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24067,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000640) (24067)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-03-24T05:07:34.789Z"
+        }
+    },
+    "39":{
+        "locationCode":"PHRD",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000617",
+        "begin":"2019-06-26T00:00:00.000Z",
+        "end":null,
+        "lat":50.70615,
+        "lon":-127.514717,
+        "depth":-149.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2019. Port Hardy Accelerometer Deployed 2019-06-26. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/8caab894-0dcf-45cd-8c8b-9278a783b225.",
+            "doi":"10.34943\/8caab894-0dcf-45cd-8c8b-9278a783b225",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/8caab894-0dcf-45cd-8c8b-9278a783b225",
+            "queryPid":null
+        },
+        "deviceId":24059,
+        "annotation":{
+            "annotationId":19276700,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Compromised | Site offline | high",
+            "createdBy":48400,
+            "depth":-149.0,
+            "endDate":null,
+            "flagged":false,
+            "formFieldIds":[
+                5,
+                123,
+                126
+            ],
+            "formFieldValues":[
+                "Compromised",
+                "Site offline",
+                "high"
+            ],
+            "lat":50.70615,
+            "lon":-127.514717,
+            "modifiedBy":48400,
+            "modifiedDate":"2026-02-10T18:06:16.110Z",
+            "modifyByName":"Angela Schlesinger",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Angela Schlesinger",
+            "published":true,
+            "resourceId":24059,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000617) (24059)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2025-12-13T11:00:00.286Z"
+        }
+    },
+    "40":{
+        "locationCode":"PRAL.W1",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANEA000131",
+        "begin":"2017-01-12T00:00:00.000Z",
+        "end":null,
+        "lat":49.218886,
+        "lon":-124.811812,
+        "depth":-20.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2017. Port Alberni Accelerometer Deployed 2017-01-12. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/4b2dd2f9-4406-4daf-be12-6a3c2c5c324c.",
+            "doi":"10.34943\/4b2dd2f9-4406-4daf-be12-6a3c2c5c324c",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/4b2dd2f9-4406-4daf-be12-6a3c2c5c324c",
+            "queryPid":null
+        },
+        "deviceId":23650,
+        "annotation":{
+            "annotationId":2559870,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 19",
+            "createdBy":2726,
+            "depth":-20.0,
+            "endDate":"2017-01-14T01:11:00.000Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 19"
+            ],
+            "lat":49.218886,
+            "lon":-124.811812,
+            "modifiedBy":2726,
+            "modifiedDate":"2017-01-14T01:11:00.000Z",
+            "modifyByName":"Reyna Jenkyns",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Reyna Jenkyns",
+            "published":true,
+            "resourceId":23650,
+            "resourceName":"Nanometrics TitanEA (S\/N 000131) (23650)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2017-01-14T01:11:00.000Z"
+        }
+    },
+    "41":{
+        "locationCode":"PRAL.W2",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001570",
+        "begin":"2022-03-24T00:00:00.000Z",
+        "end":null,
+        "lat":49.218886,
+        "lon":-124.811812,
+        "depth":-20.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Port Alberni Accelerometer Deployed 2022-03-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/5f13f757-4732-4d26-9389-84c077d9b1c1.",
+            "doi":"10.34943\/5f13f757-4732-4d26-9389-84c077d9b1c1",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/5f13f757-4732-4d26-9389-84c077d9b1c1",
+            "queryPid":null
+        },
+        "deviceId":66920,
+        "annotation":{
+            "annotationId":9965180,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 119",
+            "createdBy":22915,
+            "depth":-20.0,
+            "endDate":"2022-04-07T16:12:26.401Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 119"
+            ],
+            "lat":49.218886,
+            "lon":-124.811812,
+            "modifiedBy":22915,
+            "modifiedDate":"2022-04-07T16:12:26.401Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":66920,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001570) (66920)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-04-07T16:12:26.401Z"
+        }
+    },
+    "42":{
+        "locationCode":"PREN",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001683",
+        "begin":"2022-11-24T22:53:00.000Z",
+        "end":null,
+        "lat":48.556529,
+        "lon":-124.399594,
+        "depth":-16.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2024. Port Renfrew Accelerometer Deployed 2022-11-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8.",
+            "doi":"10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/b66acaca-4bbb-454c-b29d-faa9c20921e8",
+            "queryPid":null
+        },
+        "deviceId":68460,
+        "annotation":{
+            "annotationId":15596700,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 123",
+            "createdBy":22915,
+            "depth":-16.0,
+            "endDate":"2024-12-04T21:39:50.644Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 123"
+            ],
+            "lat":48.5565291,
+            "lon":-124.39959355,
+            "modifiedBy":22915,
+            "modifiedDate":"2024-12-04T21:39:50.644Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":68460,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001683) (68460)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2024-12-04T21:39:50.644Z"
+        }
+    },
+    "43":{
+        "locationCode":"PTAL",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000845",
+        "begin":"2018-03-22T00:00:00.000Z",
+        "end":null,
+        "lat":49.25632,
+        "lon":-124.8611,
+        "depth":-92.0,
+        "heading":null,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Port Alberni Accelerometer Deployed 2018-03-22. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/ec6a2bee-6cd9-41d8-9431-8e6a4352f676.",
+            "doi":"10.34943\/ec6a2bee-6cd9-41d8-9431-8e6a4352f676",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/ec6a2bee-6cd9-41d8-9431-8e6a4352f676",
+            "queryPid":null
+        },
+        "deviceId":24318,
+        "annotation":{
+            "annotationId":4821050,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 46",
+            "createdBy":22915,
+            "depth":-92.0,
+            "endDate":"2018-04-09T20:31:08.795Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 46"
+            ],
+            "lat":49.25632,
+            "lon":-124.8611,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-04-09T20:31:08.795Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24318,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000845) (24318)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-04-09T20:31:08.795Z"
+        }
+    },
+    "44":{
+        "locationCode":"PTRF",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN000969",
+        "begin":"2017-02-17T00:30:00.000Z",
+        "end":null,
+        "lat":48.54423,
+        "lon":-124.41304,
+        "depth":-185.0,
+        "heading":null,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Port Renfrew Accelerometer Deployed 2017-02-17. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/c5285c95-ea76-4e10-81ec-ee86412c3904.",
+            "doi":"10.34943\/c5285c95-ea76-4e10-81ec-ee86412c3904",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/c5285c95-ea76-4e10-81ec-ee86412c3904",
+            "queryPid":null
+        },
+        "deviceId":24412,
+        "annotation":{
+            "annotationId":4821150,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 43",
+            "createdBy":22915,
+            "depth":-185.0,
+            "endDate":"2018-04-09T20:47:52.792Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 43"
+            ],
+            "lat":48.54423,
+            "lon":-124.41304,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-04-09T20:47:52.792Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24412,
+            "resourceName":"Nanometrics Titan (S\/N 000969) (24412)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-04-09T20:47:52.792Z"
+        }
+    },
+    "45":{
+        "locationCode":"QISL",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001573",
+        "begin":"2021-12-10T20:00:00.000Z",
+        "end":null,
+        "lat":50.11631,
+        "lon":-125.222188,
+        "depth":-14.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2021. Quadra Island Accelerometer Deployed 2021-12-10. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/2d6137fd-baae-4cdb-b16b-8e0b279e654e.",
+            "doi":"10.34943\/2d6137fd-baae-4cdb-b16b-8e0b279e654e",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/2d6137fd-baae-4cdb-b16b-8e0b279e654e",
+            "queryPid":null
+        },
+        "deviceId":67000,
+        "annotation":{
+            "annotationId":8233710,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2021-11-04T17:07:16.603Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2021-11-04T17:07:16.603Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":67000,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001573) (67000)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-11-04T17:07:16.603Z"
+        }
+    },
+    "46":{
+        "locationCode":"QUAD",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000836",
+        "begin":"2018-10-24T00:00:00.000Z",
+        "end":null,
+        "lat":50.13247,
+        "lon":-125.33072,
+        "depth":-5.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Quadra Island Accelerometer Deployed 2018-10-24. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/3a6fa8ca-4f95-4e27-b436-c57795d8c438.",
+            "doi":"10.34943\/3a6fa8ca-4f95-4e27-b436-c57795d8c438",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/3a6fa8ca-4f95-4e27-b436-c57795d8c438",
+            "queryPid":null
+        },
+        "deviceId":24311,
+        "annotation":{
+            "annotationId":5252050,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2018-10-18T21:59:25.675Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2018-10-18T21:59:25.675Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":24311,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000836) (24311)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-10-18T21:59:25.675Z"
+        }
+    },
+    "47":{
+        "locationCode":"SAYW",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001569",
+        "begin":"2021-12-09T22:56:00.000Z",
+        "end":null,
+        "lat":50.397276,
+        "lon":-125.961756,
+        "depth":-11.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Vancouver Island Accelerometer Deployed 2021-12-09. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/c58bbb02-6dcd-4064-b1c2-78c821d1bf50.",
+            "doi":"10.34943\/c58bbb02-6dcd-4064-b1c2-78c821d1bf50",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/c58bbb02-6dcd-4064-b1c2-78c821d1bf50",
+            "queryPid":null
+        },
+        "deviceId":66900,
+        "annotation":{
+            "annotationId":8244720,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2021-11-08T20:31:53.760Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2021-11-08T20:31:53.760Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66900,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001569) (66900)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-11-08T20:31:53.760Z"
+        }
+    },
+    "48":{
+        "locationCode":"SHPB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN001117",
+        "begin":"2019-06-07T00:00:00.000Z",
+        "end":null,
+        "lat":49.3476,
+        "lon":-126.25979,
+        "depth":-26.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2021. Sharp Point Accelerometer Deployed 2019-06-07. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/772ac7a3-ab5d-4e7c-b01f-e6351b6fd14d.",
+            "doi":"10.34943\/772ac7a3-ab5d-4e7c-b01f-e6351b6fd14d",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/772ac7a3-ab5d-4e7c-b01f-e6351b6fd14d",
+            "queryPid":null
+        },
+        "deviceId":33039,
+        "annotation":{
+            "annotationId":5816030,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 88",
+            "createdBy":22915,
+            "depth":-26.0,
+            "endDate":"2019-06-19T19:56:54.399Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 88"
+            ],
+            "lat":49.3476,
+            "lon":-126.25979,
+            "modifiedBy":22915,
+            "modifiedDate":"2019-06-19T19:56:54.399Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":33039,
+            "resourceName":"Nanometrics Titan (S\/N 001117) (33039)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2019-06-19T19:56:54.399Z"
+        }
+    },
+    "49":{
+        "locationCode":"SNCH",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001704",
+        "begin":"2022-08-15T19:00:00.000Z",
+        "end":null,
+        "lat":48.468465,
+        "lon":-123.296153,
+        "depth":-20.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Saanich Accelerometer Deployed 2022-08-15. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/8667d651-b118-4649-9d24-3eeadddce89a.",
+            "doi":"10.34943\/8667d651-b118-4649-9d24-3eeadddce89a",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/8667d651-b118-4649-9d24-3eeadddce89a",
+            "queryPid":null
+        },
+        "deviceId":68540,
+        "annotation":{
+            "annotationId":10443930,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 122",
+            "createdBy":22915,
+            "depth":-20.0,
+            "endDate":"2022-09-27T15:59:59.524Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 122"
+            ],
+            "lat":48.468465,
+            "lon":-123.296153,
+            "modifiedBy":22915,
+            "modifiedDate":"2022-09-27T15:59:59.524Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":68540,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001704) (68540)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-09-27T15:59:59.524Z"
+        }
+    },
+    "50":{
+        "locationCode":"STRA",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000840",
+        "begin":"2018-10-17T00:00:00.000Z",
+        "end":null,
+        "lat":49.90003,
+        "lon":-125.64718,
+        "depth":-513.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Strathcona Park Accelerometer Deployed 2018-10-17. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/58c36326-36c8-4cbb-afee-c7a4952859cf.",
+            "doi":"10.34943\/58c36326-36c8-4cbb-afee-c7a4952859cf",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/58c36326-36c8-4cbb-afee-c7a4952859cf",
+            "queryPid":null
+        },
+        "deviceId":24313,
+        "annotation":{
+            "annotationId":5250890,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 66",
+            "createdBy":22915,
+            "depth":-513.0,
+            "endDate":"2018-10-17T21:14:40.582Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 66"
+            ],
+            "lat":49.90003,
+            "lon":-125.64718,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-10-17T21:14:40.582Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24313,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000840) (24313)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-10-17T21:14:40.582Z"
+        }
+    },
+    "51":{
+        "locationCode":"SYMB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN000895",
+        "begin":"2019-01-15T00:00:00.000Z",
+        "end":null,
+        "lat":48.55929,
+        "lon":-123.79893,
+        "depth":-945.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2019. Survey Mountain Accelerometer Deployed 2019-01-15. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/294b8651-4b19-4c2e-97fd-8ac234f5db8a.",
+            "doi":"10.34943\/294b8651-4b19-4c2e-97fd-8ac234f5db8a",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/294b8651-4b19-4c2e-97fd-8ac234f5db8a",
+            "queryPid":null
+        },
+        "deviceId":30539,
+        "annotation":{
+            "annotationId":5871700,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 78",
+            "createdBy":22915,
+            "depth":-945.0,
+            "endDate":"2019-06-27T01:08:08.136Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 78"
+            ],
+            "lat":48.55929,
+            "lon":-123.79893,
+            "modifiedBy":22915,
+            "modifiedDate":"2019-06-27T01:08:08.136Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":30539,
+            "resourceName":"Nanometrics Titan (S\/N 000895) (30539)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2019-06-27T01:08:08.136Z"
+        }
+    },
+    "52":{
+        "locationCode":"TAHB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITAN001097",
+        "begin":"2019-06-28T00:00:00.000Z",
+        "end":null,
+        "lat":49.8925,
+        "lon":-126.677,
+        "depth":-465.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2021. Tahsis Accelerometer Deployed 2019-06-28. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/791c9b48-96e8-46a4-a567-466976928768.",
+            "doi":"10.34943\/791c9b48-96e8-46a4-a567-466976928768",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/791c9b48-96e8-46a4-a567-466976928768",
+            "queryPid":null
+        },
+        "deviceId":32779,
+        "annotation":{
+            "annotationId":7249740,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 86",
+            "createdBy":22915,
+            "depth":-465.0,
+            "endDate":"2021-02-03T23:42:07.522Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 86"
+            ],
+            "lat":49.8925,
+            "lon":-126.677,
+            "modifiedBy":22915,
+            "modifiedDate":"2021-02-03T23:42:07.522Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":32779,
+            "resourceName":"Nanometrics Titan (S\/N 001097) (32779)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-02-03T23:42:07.522Z"
+        }
+    },
+    "53":{
+        "locationCode":"TAYR",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001672",
+        "begin":"2021-12-02T23:30:00.000Z",
+        "end":null,
+        "lat":49.294836,
+        "lon":-125.299886,
+        "depth":-60.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2021. Taylor River Accelerometer Deployed 2021-12-02. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/d6cf02a0-6e66-4d02-b23c-979fdc95ccb1.",
+            "doi":"10.34943\/d6cf02a0-6e66-4d02-b23c-979fdc95ccb1",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/d6cf02a0-6e66-4d02-b23c-979fdc95ccb1",
+            "queryPid":null
+        },
+        "deviceId":66860,
+        "annotation":{
+            "annotationId":8229310,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2021-11-02T19:06:46.886Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2021-11-02T19:06:46.886Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66860,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001672) (66860)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-11-02T19:06:46.886Z"
+        }
+    },
+    "54":{
+        "locationCode":"TELC",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001544",
+        "begin":"2022-03-22T00:00:00.000Z",
+        "end":null,
+        "lat":50.545933,
+        "lon":-126.832395,
+        "depth":-9.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2022. Telegraph Cove Accelerometer Deployed 2022-03-22. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/ff6b41d2-e5e2-442a-99d9-9da0f142fbc0.",
+            "doi":"10.34943\/ff6b41d2-e5e2-442a-99d9-9da0f142fbc0",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/ff6b41d2-e5e2-442a-99d9-9da0f142fbc0",
+            "queryPid":null
+        },
+        "deviceId":66800,
+        "annotation":{
+            "annotationId":8244810,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2021-11-08T20:40:57.279Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2021-11-08T20:40:57.279Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66800,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001544) (66800)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-11-08T20:40:57.279Z"
+        }
+    },
+    "55":{
+        "locationCode":"UCLU",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000643",
+        "begin":"2018-03-22T00:00:01.000Z",
+        "end":null,
+        "lat":48.92457,
+        "lon":-125.54198,
+        "depth":-8.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Ucluelet Accelerometer Deployed 2018-03-22. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/84d8d5d2-2094-4f2f-a68e-acdad3bee3b5.",
+            "doi":"10.34943\/84d8d5d2-2094-4f2f-a68e-acdad3bee3b5",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/84d8d5d2-2094-4f2f-a68e-acdad3bee3b5",
+            "queryPid":null
+        },
+        "deviceId":24070,
+        "annotation":{
+            "annotationId":4828170,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 45",
+            "createdBy":22915,
+            "depth":-8.0,
+            "endDate":"2018-04-13T20:16:08.951Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 45"
+            ],
+            "lat":48.92457,
+            "lon":-125.54198,
+            "modifiedBy":22915,
+            "modifiedDate":"2018-04-13T20:16:08.951Z",
+            "modifyByName":"Seann Wagner",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Seann Wagner",
+            "published":true,
+            "resourceId":24070,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000643) (24070)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-04-13T20:16:08.951Z"
+        }
+    },
+    "56":{
+        "locationCode":"VICP",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000839",
+        "begin":"2018-09-26T00:00:00.000Z",
+        "end":null,
+        "lat":50.00632,
+        "lon":-126.10854,
+        "depth":-1572.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Victoria Peak Accelerometer Deployed 2018-09-26. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/b9039350-b6c2-456b-a553-42a0a50d9194.",
+            "doi":"10.34943\/b9039350-b6c2-456b-a553-42a0a50d9194",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/b9039350-b6c2-456b-a553-42a0a50d9194",
+            "queryPid":null
+        },
+        "deviceId":24312,
+        "annotation":{
+            "annotationId":19276500,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Compromised | Site offline | high",
+            "createdBy":48400,
+            "depth":-1572.0,
+            "flagged":false,
+            "formFieldIds":[
+                5,
+                123,
+                126
+            ],
+            "formFieldValues":[
+                "Compromised",
+                "Site offline",
+                "high"
+            ],
+            "lat":50.00632,
+            "lon":-126.10854,
+            "modifiedBy":48400,
+            "modifiedDate":"2026-02-10T18:02:06.205Z",
+            "modifyByName":"Angela Schlesinger",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Angela Schlesinger",
+            "published":true,
+            "resourceId":24312,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000839) (24312)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2024-11-19T00:00:00.097Z",
+            "endDate":null
+        }
+    },
+    "57":{
+        "locationCode":"WINH",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001572",
+        "begin":"2022-06-01T00:29:00.000Z",
+        "end":null,
+        "lat":50.52703,
+        "lon":-128.01686,
+        "depth":-1.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2023. Winter Harbour Accelerometer Deployed 2022-06-01. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/9af239d0-db6f-446a-bb53-4df5c5244e0a.",
+            "doi":"10.34943\/9af239d0-db6f-446a-bb53-4df5c5244e0a",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/9af239d0-db6f-446a-bb53-4df5c5244e0a",
+            "queryPid":null
+        },
+        "deviceId":66960,
+        "annotation":{
+            "annotationId":9986400,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 117",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2022-04-21T20:55:50.542Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 117"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2022-04-21T20:55:50.542Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":66960,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001572) (66960)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2022-04-21T20:55:50.542Z"
+        }
+    },
+    "58":{
+        "locationCode":"WOSB",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001677",
+        "begin":"2026-03-31T16:30:00.000Z",
+        "end":null,
+        "lat":50.213376,
+        "lon":-126.602131,
+        "depth":-157.0,
+        "heading":2.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2026. Woss Lake Accelerometer Deployed 2026-03-31. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739.",
+            "doi":"10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/d40679f3-f65c-4fb5-b4fa-403ba6aa8739",
+            "queryPid":null
+        },
+        "deviceId":68380,
+        "annotation":{
+            "annotationId":19602600,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 132",
+            "createdBy":110080,
+            "depth":-157.0,
+            "endDate":"2026-04-01T03:51:19.693Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 132"
+            ],
+            "lat":50.213376,
+            "lon":-126.602131,
+            "modifiedBy":110080,
+            "modifiedDate":"2026-04-01T03:51:19.693Z",
+            "modifyByName":"Sullivan Mair",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Sullivan Mair",
+            "published":true,
+            "resourceId":68380,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001677) (68380)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2026-04-01T03:51:19.693Z"
+        }
+    },
+    "59":{
+        "locationCode":"YWPT",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA001701",
+        "begin":"2024-05-02T00:00:00.000Z",
+        "end":null,
+        "lat":49.046248,
+        "lon":-123.756308,
+        "depth":-3.0,
+        "heading":0.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2024. Vancouver Island Accelerometer Deployed 2024-05-02. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/23f9e7cc-fc9a-43cd-8eca-52019f9f9b1a.",
+            "doi":"10.34943\/23f9e7cc-fc9a-43cd-8eca-52019f9f9b1a",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/23f9e7cc-fc9a-43cd-8eca-52019f9f9b1a",
+            "queryPid":null
+        },
+        "deviceId":68480,
+        "annotation":{
+            "annotationId":8213150,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2021-10-27T15:59:55.291Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2021-10-27T15:59:55.291Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":68480,
+            "resourceName":"Nanometrics Titan SMA (S\/N 001701) (68480)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2021-10-27T15:59:55.291Z"
+        }
+    },
+    "60":{
+        "locationCode":"ZEBA.W3",
+        "deviceCategoryCode":"ACCELEROMETER",
+        "deviceCode":"NANOMETRICSTITANSMA000843",
+        "begin":"2018-11-20T00:00:00.000Z",
+        "end":null,
+        "lat":49.98961,
+        "lon":-126.85058,
+        "depth":-42.0,
+        "heading":327.0,
+        "citation":{
+            "citation":"Ocean Networks Canada Society. 2018. Zeballos Accelerometer Deployed 2018-11-20. Ocean Networks Canada Society. https:\/\/doi.org\/10.34943\/8e0cc174-41a2-461b-9447-2d41017c6c47.",
+            "doi":"10.34943\/8e0cc174-41a2-461b-9447-2d41017c6c47",
+            "landingPageUrl":"https:\/\/doi.org\/10.34943\/8e0cc174-41a2-461b-9447-2d41017c6c47",
+            "queryPid":null
+        },
+        "deviceId":24316,
+        "annotation":{
+            "annotationId":5273090,
+            "annotationSource":"DMAS",
+            "annotationSummary":"Set JVM Id to 18",
+            "createdBy":2424,
+            "depth":-20.0,
+            "endDate":"2018-10-30T16:43:34.050Z",
+            "flagged":false,
+            "formFieldIds":[
+                4
+            ],
+            "formFieldValues":[
+                "Set JVM Id to 18"
+            ],
+            "lat":48.6494983333,
+            "lon":-123.4454733333,
+            "modifiedBy":2424,
+            "modifiedDate":"2018-10-30T16:43:34.050Z",
+            "modifyByName":"Yingsong Zheng",
+            "orderedFormFieldValues":[
+
+            ],
+            "ownerName":"Yingsong Zheng",
+            "published":true,
+            "resourceId":24316,
+            "resourceName":"Nanometrics Titan SMA (S\/N 000843) (24316)",
+            "resourceTypeId":2,
+            "resourceTypeName":"Device",
+            "startDate":"2018-10-30T16:43:34.050Z"
+        }
     }
 }
